@@ -1,0 +1,3496 @@
+{
+  "persons": [
+    {
+      "id": 44,
+      "status": "published",
+      "role": "speaker",
+      "sort": 1,
+      "name": "Dominik Stroukal",
+      "position": "Ekonom, Metropolitní univerzita Praha",
+      "img": "/media/3e872f2408f9d6eca4c4.webp",
+      "motto": null,
+      "web_url": "https://stroukal.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/Stroukal",
+      "linkedin_url": "https://www.linkedin.com/in/stroukal/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 22,
+      "status": "published",
+      "role": "speaker",
+      "sort": 2,
+      "name": "Ladislav Krištoufek",
+      "position": "Ekonom, profesor, prorektor, ČVUT",
+      "img": "/media/f60949690bd4d26aeb88.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/lkristoufek",
+      "linkedin_url": "https://www.linkedin.com/in/ladislav-kri%C5%A1toufek-83a27914/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 9,
+      "status": "published",
+      "role": "moderator",
+      "sort": 3,
+      "name": "Marianna Sádecká",
+      "position": "Moderátorka /\"Lokál hosť\" podcast/",
+      "img": "/media/9ab8a715d49fe60c671f.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": "https://www.youtube.com/playlist?list=PL2dtxTb5xHpuVCwYsdG7uJ0aqWi_fGQ0r",
+      "facebook_url": "https://www.facebook.com/marianna.sadecka",
+      "x_url": "https://x.com/SadeckaMarianna",
+      "linkedin_url": "https://www.linkedin.com/in/mariannasadecka/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 7,
+      "status": "published",
+      "role": "speaker",
+      "sort": 4,
+      "name": "Jakub \"Kicom\" Vejmola",
+      "position": "Youtuber a fanda predikčních trhů",
+      "img": "/media/205ce17950f465cbe44d.webp",
+      "motto": null,
+      "web_url": "https://bitcoinovejkanal.cz/",
+      "youtube_url": "https://www.youtube.com/BitcoinovejKanal",
+      "facebook_url": null,
+      "x_url": "https://x.com/BitcoinovejKnl",
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 8,
+      "status": "published",
+      "role": "speaker",
+      "sort": 5,
+      "name": "Lukáš Kovanda",
+      "position": "Hlavní ekonom Trinity Bank",
+      "img": "/media/9b2f6b8efe04e3aa854d.webp",
+      "motto": null,
+      "web_url": "http://www.lukaskovanda.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/LukasKovanda",
+      "linkedin_url": "https://www.linkedin.com/in/luk%C3%A1%C5%A1-kovanda-82884497/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 11,
+      "status": "published",
+      "role": "speaker",
+      "sort": 6,
+      "name": "Michal Novák",
+      "position": "Analytik a konzultant v oblasti digitálních aktiv, autor dvou knih s bitcoinovou tématikou",
+      "img": "/media/507530eb3fda481bc70b.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/michal_novak_21",
+      "linkedin_url": null,
+      "instagram_url": "https://www.instagram.com/michal.novak.728/",
+      "email": null
+    },
+    {
+      "id": 5,
+      "status": "published",
+      "role": "speaker",
+      "sort": 7,
+      "name": "Josef Tětek",
+      "position": "Ekonom, autor několika knih o Bitcoinu a penězích, tvůrce podcastu Stackuj.",
+      "img": "/media/8ad9fda2d6797a823210.webp",
+      "motto": null,
+      "web_url": "https://stackuj.cz/",
+      "youtube_url": "https://www.youtube.com/@stackuj",
+      "facebook_url": null,
+      "x_url": "https://x.com/JosefTetek",
+      "linkedin_url": "https://www.linkedin.com/in/joseftetek/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 12,
+      "status": "published",
+      "role": "speaker",
+      "sort": 8,
+      "name": "Milan \"Sodomák\" Půlkrábek",
+      "position": "Information Security Consultant",
+      "img": "/media/f9b45a8fa3c842469c93.webp",
+      "motto": null,
+      "web_url": "https://www.digitalni-sebeobrana.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/sodomak",
+      "linkedin_url": "https://www.linkedin.com/in/milanpulkrabek/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 4,
+      "status": "published",
+      "role": "speaker",
+      "sort": 9,
+      "name": "Daniel Steigerwald",
+      "position": "Programátor, anarchista a dekonstruktér státu",
+      "img": "/media/f73a045679459e653e01.webp",
+      "motto": null,
+      "web_url": "https://about.me/danielsteigerwald",
+      "youtube_url": null,
+      "facebook_url": "https://www.facebook.com/daniel.steigerwald",
+      "x_url": "https://x.com/steidacz",
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 27,
+      "status": "published",
+      "role": "speaker",
+      "sort": 10,
+      "name": "Aleš Vávra",
+      "position": "Obyčejný člověk a bitcoinový skeptik",
+      "img": "/media/d1829459c3f75863f00b.webp",
+      "motto": null,
+      "web_url": "https://substack.com/@alesvavra789318",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/ales_vavra",
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 47,
+      "status": "published",
+      "role": "moderator",
+      "sort": 11,
+      "name": "Tereza Zavadilová",
+      "position": "Byznysová novinářka, CEO zpravodajského webu newstream.cz",
+      "img": "/media/f20022262435724449e1.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": "https://www.linkedin.com/in/tereza-zavadilova-97b1261b/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 10,
+      "status": "published",
+      "role": "speaker",
+      "sort": 12,
+      "name": "Martin Gregor",
+      "position": "Krypto a AI youtuber",
+      "img": "/media/27f48a170d7a2b4f2179.webp",
+      "motto": null,
+      "web_url": "https://www.zaujaloma.sk/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/ZaujaloMa",
+      "linkedin_url": "https://www.linkedin.com/in/martin-gregor-9870851bb/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 2,
+      "status": "published",
+      "role": "speaker",
+      "sort": 13,
+      "name": "František Vinopal",
+      "position": "Předseda České kryptoměnové asociace",
+      "img": "/media/8787a2b4510944534e34.webp",
+      "motto": null,
+      "web_url": "https://stablelabs.co/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": "https://www.linkedin.com/in/vinfra/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 15,
+      "status": "published",
+      "role": "speaker",
+      "sort": 19,
+      "name": "Kirill Juran",
+      "position": "CEO SMPL_",
+      "img": "/media/98d6f1ccf46dfca0f50f.webp",
+      "motto": null,
+      "web_url": "https://www.smpl.cz/",
+      "youtube_url": "https://www.youtube.com/@KirillJuran",
+      "facebook_url": null,
+      "x_url": "https://x.com/KirillJuran",
+      "linkedin_url": "https://www.linkedin.com/in/kirilljuran/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 21,
+      "status": "published",
+      "role": "speaker",
+      "sort": 22,
+      "name": "BFI",
+      "position": "Content creator crypto education, Airdrop hunter",
+      "img": "/media/7f88d7ab94140b9438ba.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": "https://www.youtube.com/@BfiBitcoin",
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": null,
+      "instagram_url": "https://www.instagram.com/bfibitcoin",
+      "email": "Bitcoin.future.bfi@gmail.com"
+    },
+    {
+      "id": 17,
+      "status": "published",
+      "role": "speaker",
+      "sort": 23,
+      "name": "Jan \"Gorrdy\" Dvořák",
+      "position": "Firefish",
+      "img": "/media/02745493da939d121ed7.webp",
+      "motto": null,
+      "web_url": "https://firefish.io/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/_Honza_Dvorak",
+      "linkedin_url": "https://www.linkedin.com/in/jan-dvo%C5%99%C3%A1k-a712b8154/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 18,
+      "status": "published",
+      "role": "speaker",
+      "sort": 24,
+      "name": "Juraj Bednár",
+      "position": "Autor knih / seriový podnikatel",
+      "img": "/media/51b9c517f39b7987a513.webp",
+      "motto": null,
+      "web_url": "https://juraj.bednar.io/",
+      "youtube_url": "https://www.youtube.com/@jurbed",
+      "facebook_url": "https://www.facebook.com/juraj.bednar",
+      "x_url": "https://x.com/jurbed",
+      "linkedin_url": "https://www.linkedin.com/in/jbednar/",
+      "instagram_url": "https://www.instagram.com/juraj.bednar/",
+      "email": null
+    },
+    {
+      "id": 20,
+      "status": "published",
+      "role": "speaker",
+      "sort": 25,
+      "name": "Urza",
+      "position": "Anarchokapitalista, tvůrce Svobodného přístavu, učitel v sebeřízené škole Ježek bez klece",
+      "img": "/media/59bc121e1399dd980ec2.webp",
+      "motto": null,
+      "web_url": "https://www.urza.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 30,
+      "status": "published",
+      "role": "speaker",
+      "sort": 30,
+      "name": "Pavol Lupták",
+      "position": "Globální oportunista, etický hacker a digitální nomád",
+      "img": "/media/2edbed572cf021c8dbdb.webp",
+      "motto": null,
+      "web_url": "https://opportunist.global/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/wilderko",
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 32,
+      "status": "published",
+      "role": "speaker",
+      "sort": 33,
+      "name": "Ondřej Varga",
+      "position": "Project manager - WhaleBooks",
+      "img": "/media/ba9461842712dad802af.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/ondrejvarga",
+      "linkedin_url": "https://www.linkedin.com/in/ondrejvarga/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 36,
+      "status": "published",
+      "role": "speaker",
+      "sort": 35,
+      "name": "Eddie",
+      "position": "Bitcoiner - Leader 21",
+      "img": "/media/845c67e15dc75f2f4488.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": "eddie@jednadvacet.org"
+    },
+    {
+      "id": 34,
+      "status": "published",
+      "role": "speaker",
+      "sort": 38,
+      "name": "František Kohout",
+      "position": "CEO Galosoft",
+      "img": "/media/dbe601c28372116cfed3.webp",
+      "motto": null,
+      "web_url": "https://www.galosoft.cz/cs/crypto",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/Galosoft",
+      "linkedin_url": "https://www.linkedin.com/in/frantisekkohout/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 40,
+      "status": "published",
+      "role": "speaker",
+      "sort": 40,
+      "name": "Jiří Havránek",
+      "position": "Poslanec PS PČR (ODS)",
+      "img": "/media/fa554fe6025861af7dca.webp",
+      "motto": null,
+      "web_url": "https://www.psp.cz/sqw/detail.sqw?id=6755",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/j_havranek",
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": "havranekj@psp.cz"
+    },
+    {
+      "id": 16,
+      "status": "published",
+      "role": "speaker",
+      "sort": 42,
+      "name": "Radim Kozub",
+      "position": "Spoluzakladatel Blockchain Legal",
+      "img": "/media/c948070c04d1b3ecb459.webp",
+      "motto": null,
+      "web_url": "https://www.blockchainlegal.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/RadimKozzub",
+      "linkedin_url": "https://www.linkedin.com/in/radim-kozub-4728a2133/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 45,
+      "status": "published",
+      "role": "speaker",
+      "sort": 48,
+      "name": "Adam Chvaja",
+      "position": "Bitcoin rider, Serial entrepreneur, Head of ČKMA, Anarcho-capitalist",
+      "img": "/media/56d28d69dcbebc8777f7.webp",
+      "motto": null,
+      "web_url": "https://adam.chvaja.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/chvajaa",
+      "linkedin_url": "https://www.linkedin.com/in/chvaja/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 49,
+      "status": "published",
+      "role": "speaker",
+      "sort": 49,
+      "name": "Michal Nýdrle",
+      "position": "Investor, Invity partner, filantrop",
+      "img": "/media/489741bb4c9944cf2356.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": "https://www.linkedin.com/in/michal-nydrle/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 50,
+      "status": "published",
+      "role": "speaker",
+      "sort": 50,
+      "name": "Dušan Šula",
+      "position": "CTO&Co - founder XRENN™",
+      "img": "/media/3f87f6d8104d275812f6.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": "https://youtube.com/@xrenn_ai",
+      "facebook_url": null,
+      "x_url": "https://x.com/DusanSula",
+      "linkedin_url": "https://cz.linkedin.com/in/dusan-sula-jr",
+      "instagram_url": null,
+      "email": "xrenn@xrenn.ai"
+    },
+    {
+      "id": 13,
+      "status": "published",
+      "role": "speaker",
+      "sort": 51,
+      "name": "Tomáš Krause",
+      "position": "Bitcoiner, propagátor Bitcoinu",
+      "img": "/media/c6d978a52b5e8b917c21.webp",
+      "motto": null,
+      "web_url": "https://bitcoinvkapse.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/Bitcoinvkapse",
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 63,
+      "status": "published",
+      "role": "moderator",
+      "sort": 52,
+      "name": "Roman Fabiánek",
+      "position": "Advokát, Deloitte Legal",
+      "img": "/media/0a4e5e0660cca1fb5ccb.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": "https://www.linkedin.com/in/romanfabianek/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 51,
+      "status": "published",
+      "role": "speaker",
+      "sort": 53,
+      "name": "Jan Čopák",
+      "position": "Agamapoint",
+      "img": "/media/8d7ac02b7f581b64ba06.webp",
+      "motto": null,
+      "web_url": "https://www.agamapoint.com/bitcoin/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/agamapoint",
+      "linkedin_url": "https://www.linkedin.com/in/jan-%C4%8Dop%C3%A1k-86682152/",
+      "instagram_url": "https://www.instagram.com/octopusengine",
+      "email": null
+    },
+    {
+      "id": 54,
+      "status": "published",
+      "role": "speaker",
+      "sort": 54,
+      "name": "Mgr. Peter Slezák",
+      "position": "Senior AI developer, STYRAX Consulting",
+      "img": "/media/2fc6c839e153de08b651.webp",
+      "motto": null,
+      "web_url": "https://styraxconsulting.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": "https://www.linkedin.com/in/peter-slez%C3%A1k-0b9007118?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BitfvbXOS%2BGZEPFD9aJtng%3D%3D",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 53,
+      "status": "published",
+      "role": "speaker",
+      "sort": 55,
+      "name": "Ing. Vladimír Šolc, DMS",
+      "position": "Člen představenstva, STYRAX Consulting",
+      "img": "/media/b4a57b53e8a39f02090c.webp",
+      "motto": null,
+      "web_url": "https://styraxconsulting.cz/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": "https://www.linkedin.com/in/vladimir-solc/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 56,
+      "status": "published",
+      "role": "speaker",
+      "sort": 56,
+      "name": "Hynek Jína",
+      "position": "Product manager, Trezor",
+      "img": "/media/f50f6dff47db0ef8ae06.webp",
+      "motto": null,
+      "web_url": "https://linky.fit/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 60,
+      "status": "published",
+      "role": "speaker",
+      "sort": 57,
+      "name": "Michal",
+      "position": "VEXL komunitní manažer pro ČR",
+      "img": "/media/9b19857bfb8afc447d8d.webp",
+      "motto": null,
+      "web_url": "https://vexl.it/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/BitcoinCesky",
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 57,
+      "status": "published",
+      "role": "speaker",
+      "sort": 58,
+      "name": "Bohumil Kolář",
+      "position": "Machine Learning Engineer v CXI TUL",
+      "img": "/media/3e562617599a2692a1e0.webp",
+      "motto": null,
+      "web_url": "https://www.cxi.tul.cz",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": null,
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 58,
+      "status": "published",
+      "role": "speaker",
+      "sort": 59,
+      "name": "Dominik Moštěk",
+      "position": "Chief Technology Officer v Coinmate",
+      "img": "/media/dd6ac48351b2986e42c8.webp",
+      "motto": null,
+      "web_url": "https://coinmate.io/cs",
+      "youtube_url": "https://www.youtube.com/@coinmate_io/",
+      "facebook_url": "https://www.facebook.com/Coinmate.io/",
+      "x_url": "https://x.com/CoinmateBT/",
+      "linkedin_url": "https://www.linkedin.com/in/dominikmostek/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 59,
+      "status": "published",
+      "role": "speaker",
+      "sort": 60,
+      "name": "Matouš Ledvina",
+      "position": "Bitcoinový a marketingový nadšenec, Invity",
+      "img": "/media/30d2a8277faa71a188cf.webp",
+      "motto": null,
+      "web_url": "https://invity.io/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/MatousLed",
+      "linkedin_url": "https://www.linkedin.com/in/matousledvina/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 61,
+      "status": "published",
+      "role": "speaker",
+      "sort": 61,
+      "name": "Dominika Vykydalová",
+      "position": "Content Invity",
+      "img": "/media/e04d33aefd5ca34f801c.webp",
+      "motto": null,
+      "web_url": "https://invity.io/",
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": null,
+      "linkedin_url": "https://www.linkedin.com/in/dominikavykydalova/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 62,
+      "status": "published",
+      "role": "speaker",
+      "sort": 62,
+      "name": "Dušan Kmetyo",
+      "position": "Organizátor",
+      "img": "/media/be6db5807153b6a61c12.webp",
+      "motto": null,
+      "web_url": "https://cryptobyte.cz/",
+      "youtube_url": "https://youtube.com/onebeershow",
+      "facebook_url": "https://www.facebook.com/CryptoByteLiberec",
+      "x_url": "https://x.com/CByte_Lbc",
+      "linkedin_url": "https://www.linkedin.com/in/du%C5%A1an-kmetyo-976aa924/",
+      "instagram_url": null,
+      "email": null
+    },
+    {
+      "id": 64,
+      "status": "published",
+      "role": "speaker",
+      "sort": null,
+      "name": "David Mirzazada",
+      "position": "CMO aplikace Littlebit",
+      "img": "/media/6a926f4f91a011e29db9.webp",
+      "motto": null,
+      "web_url": null,
+      "youtube_url": null,
+      "facebook_url": null,
+      "x_url": "https://x.com/joinLittlebit",
+      "linkedin_url": "https://www.linkedin.com/in/davidmirzazada/",
+      "instagram_url": null,
+      "email": null
+    }
+  ],
+  "stages": {
+    "data": [
+      {
+        "id": 1,
+        "sort": 1,
+        "name": "General Bytes stage",
+        "status": "published"
+      },
+      {
+        "id": 2,
+        "sort": 2,
+        "name": "Zcash stage",
+        "status": "published"
+      },
+      {
+        "id": 3,
+        "sort": 3,
+        "name": "Blabol stage",
+        "status": "published"
+      },
+      {
+        "id": 4,
+        "sort": 4,
+        "name": "Coinmate workshops",
+        "status": "published"
+      },
+      {
+        "id": 5,
+        "sort": 5,
+        "name": "Invity workshops",
+        "status": "published"
+      },
+      {
+        "id": 6,
+        "sort": 6,
+        "name": "Expo hala",
+        "status": "published"
+      },
+      {
+        "id": 7,
+        "sort": 7,
+        "name": "Outdoor",
+        "status": "published"
+      }
+    ]
+  },
+  "talks": {
+    "json": [
+      {
+        "id": 94,
+        "status": "published",
+        "format": "side",
+        "length": 120,
+        "start": "2026-05-15T15:30:00.000Z",
+        "stage": 7,
+        "name": "Lety helikoprérou pro držitele vstupenek Boarding Pass",
+        "description": "Jen 9 kusů letenek v rámci vstupenky na konferenci Boarding Pass. Unikátní zážitek z přeletu nad Ještědem a Jizerskými horami. \n\nDo 14.5.2026 si můžete koupit tuto vstupenku i vy [ZDE](https://vstupenky.cryptobyte.cz/).",
+        "difficulty": null,
+        "persons": [],
+        "moderator": null
+      },
+      {
+        "id": 90,
+        "status": "published",
+        "format": "side",
+        "length": 480,
+        "start": "2026-05-16T09:30:00.000Z",
+        "stage": 6,
+        "name": "Celodenní občerstvení CryptoByte baru a ve stánku Bistro Široká ...",
+        "description": "...a stánky partnerů konference.",
+        "difficulty": null,
+        "persons": [],
+        "moderator": null
+      },
+      {
+        "id": 95,
+        "status": "published",
+        "format": "intro",
+        "length": 10,
+        "start": "2026-05-16T09:35:00.000Z",
+        "stage": 1,
+        "name": "Zahájení konference a ...",
+        "description": "Slavnostní zahájení není jen formalita. Čeká nás, mimo jiné, oznámení, které zatím žádný jiný kraj v ČR neučinil. \nMožná to bude malý krok pro lidstvo, ale rozhodně velký krok pro adopci bitcoinu v rámci Libereckého kraje, který se v těchto dnech stává nejprogresivnějším krajem v oblasti adopce kryptoměn. Také implementace kryptoměnových plateb může přispět k možnosti života na bitcoinu, kterému se věnují někteří účastníci konference.\nAkci zahájíme ve velkém stylu, ohlášením implementace bitcoinových plateb do IT řešení Libereckého kraje. Přijeďte na CryptoByte 2026 MHD a zaplaťte za jízdenku bitcoinem.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 62,
+            "status": "published",
+            "role": "speaker",
+            "sort": 62,
+            "name": "Dušan Kmetyo",
+            "position": "Organizátor",
+            "img": "/media/be6db5807153b6a61c12.webp",
+            "motto": null,
+            "web_url": "https://cryptobyte.cz/",
+            "youtube_url": "https://youtube.com/onebeershow",
+            "facebook_url": "https://www.facebook.com/CryptoByteLiberec",
+            "x_url": "https://x.com/CByte_Lbc",
+            "linkedin_url": "https://www.linkedin.com/in/du%C5%A1an-kmetyo-976aa924/",
+            "instagram_url": null,
+            "email": null
+          },
+          {
+            "id": 9,
+            "status": "published",
+            "role": "moderator",
+            "sort": 3,
+            "name": "Marianna Sádecká",
+            "position": "Moderátorka /\"Lokál hosť\" podcast/",
+            "img": "/media/9ab8a715d49fe60c671f.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": "https://www.youtube.com/playlist?list=PL2dtxTb5xHpuVCwYsdG7uJ0aqWi_fGQ0r",
+            "facebook_url": "https://www.facebook.com/marianna.sadecka",
+            "x_url": "https://x.com/SadeckaMarianna",
+            "linkedin_url": "https://www.linkedin.com/in/mariannasadecka/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 74,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T09:45:00.000Z",
+        "stage": 1,
+        "name": "Kontra cébédécé",
+        "description": "Argumenty proti CBDC jsou často spojeny s útokem na jejich cíle. Přestože to můžou být oprávněné obavy, proti CBDC se dá argumentovat i kdybychom předpokládali, že cíle jsou bohulibé, protože jejich vlastní prostředky k daným cílům nevedou.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 44,
+            "status": "published",
+            "role": "speaker",
+            "sort": 1,
+            "name": "Dominik Stroukal",
+            "position": "Ekonom, Metropolitní univerzita Praha",
+            "img": "/media/3e872f2408f9d6eca4c4.webp",
+            "motto": null,
+            "web_url": "https://stroukal.cz/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/Stroukal",
+            "linkedin_url": "https://www.linkedin.com/in/stroukal/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 56,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T09:45:00.000Z",
+        "stage": 2,
+        "name": "Adopce bitcoinu",
+        "description": "Proč budovat sítě lidí používající bitcoin? A jak na to?",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 56,
+            "status": "published",
+            "role": "speaker",
+            "sort": 56,
+            "name": "Hynek Jína",
+            "position": "Product manager, Trezor",
+            "img": "/media/f50f6dff47db0ef8ae06.webp",
+            "motto": null,
+            "web_url": "https://linky.fit/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 64,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T09:45:00.000Z",
+        "stage": 3,
+        "name": "Krmíte AI svým firemním tajemstvím?",
+        "description": "Jak zastavit úniky dat a přežít NIS2 s úsměvem. (Představení XRENN™ EdgeGuardian)\nŽijeme v době, kdy vaši zaměstnanci (i vy sami) denně kopírují klientská data, zdrojové kódy a citlivé smlouvy do veřejných AI modelů, aby si 'usnadnili práci'. Výsledek? Masivní bezpečnostní riziko, ztráta duševního vlastnictví a porušení všech pravidel compliance. A do toho klepe na dveře směrnice NIS2, ze které mají firmy hrůzu.\n\nBěhem této přednášky a workshopu vám jako CTO a tvůrce zařízení ukážu, že spoléhat se na to, že „uživatelé budou opatrní“, je cesta do pekel. Místo toho vám představím XRENN™ EdgeGuardian NIS2 -> nekompromisní řešení, které nasadíte na okraj vaší sítě (edge).\n\nCo vás čeká:\nLive Demo (Live Hacking): Ukážeme si v reálném čase, jak snadno data unikají do AI a jak tomu XRENN™ EdgeGuardian dokáže v milisekundách zabránit.\n\nKonec NIS2 paniky: Jak z něčeho, co vyžaduje stohy papírů a procesů, udělat technologickou automatizaci.\n\nSecurity pro lamy: Proč je náš produkt postavený tak, aby chránil firmu bez ohledu na to, jak (ne)vzdělaný v kyberbezpečnosti je koncový uživatel.\n\nPřijďte se podívat na oficiální představení produktu XRENN™ EdgeGuardian NIS2, který mění pravidla hry v ochraně perimetru v éře umělé inteligence. Zjistíte, jak ho můžete nasadit už zítra a mít klidné spaní.",
+        "difficulty": 3,
+        "persons": [
+          {
+            "id": 50,
+            "status": "published",
+            "role": "speaker",
+            "sort": 50,
+            "name": "Dušan Šula",
+            "position": "CTO&Co - founder XRENN™",
+            "img": "/media/3f87f6d8104d275812f6.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": "https://youtube.com/@xrenn_ai",
+            "facebook_url": null,
+            "x_url": "https://x.com/DusanSula",
+            "linkedin_url": "https://cz.linkedin.com/in/dusan-sula-jr",
+            "instagram_url": null,
+            "email": "xrenn@xrenn.ai"
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 79,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T09:45:00.000Z",
+        "stage": 4,
+        "name": "Farming airdrop hunting a hladanie najlepsich urokov v krypte ",
+        "description": "Hľadanie spôsobov ako nachádzať najlepšie úročenie vlastnej liquidity a vytváranie aktivít po ktorých prichádzajú airdropy a odmeny od používaných protokolov. Minimalizovanie rizika, maximalizovanie ziskov.",
+        "difficulty": 3,
+        "persons": [
+          {
+            "id": 21,
+            "status": "published",
+            "role": "speaker",
+            "sort": 22,
+            "name": "BFI",
+            "position": "Content creator crypto education, Airdrop hunter",
+            "img": "/media/7f88d7ab94140b9438ba.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": "https://www.youtube.com/@BfiBitcoin",
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": null,
+            "instagram_url": "https://www.instagram.com/bfibitcoin",
+            "email": "Bitcoin.future.bfi@gmail.com"
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 32,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T09:45:00.000Z",
+        "stage": 5,
+        "name": "Bitcoin pro začátečníky",
+        "description": "Bitcoin vám nepomůže rychle zbohatnou, pomůže vám pomalu nezchudnout. Co si pod tím představit? Jak s bitcoinem začít? Musím být geek? Workshop pro totální začátečníky v bitcoinu.\n\n💡 Ideální první bod programu pro úplné začátečníky. Lépe pak porozumíte dalším přednáškám a panelovým diskuzím 💡",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 13,
+            "status": "published",
+            "role": "speaker",
+            "sort": 51,
+            "name": "Tomáš Krause",
+            "position": "Bitcoiner, propagátor Bitcoinu",
+            "img": "/media/c6d978a52b5e8b917c21.webp",
+            "motto": null,
+            "web_url": "https://bitcoinvkapse.cz/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/Bitcoinvkapse",
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 93,
+        "status": "published",
+        "format": "side",
+        "length": 420,
+        "start": "2026-05-16T10:00:00.000Z",
+        "stage": 7,
+        "name": "Projížďky unikátním BMW i7 M70",
+        "description": "Svezte se stejným EV, které používá král Karel III. BMW i7 M70 je jeho hlavním vozem pro oficiální příležitosti. Před hlavním vchodem na konferenci se můžete za pár satů cítit jako král.\n\n**Něco málo ze specifikace a výbavy tohoto unikátního vozu:**\n\nTechnika a podvozek: DNA Rolls-Royce\n\nPlatforma: i7 sdílí klíčové komponenty podvozku s modelem Rolls-Royce Spectre.\n\nExecutive Drive Pro: Unikátní systém aktivních stabilizátorů zabraňuje naklánění karoserie v zatáčkách. Auto „žehlí“ silnici, jako by se nad ní vznášelo.\n\nAkustická izolace: Aktuálně nejlépe odhlučněné vozidlo planety. Speciální pěna v pneumatikách a vrstvená skla vytvářejí v kabině absolutní ticho.\n\nInteriér: High-tech palác\n\nMateriály: Unikátní kombinace kůže Merino a pravého kašmíru (BMW Individual). Je to jemnější a luxusnější než jakákoliv běžná kůže. V létě chladí v zimě hřeje.\n\nSwarovski krystaly: Ovládací prvky (volič převodovky, iDrive ovladač a sedadla) jsou z broušeného křišťálu. Přes palubní desku se táhne svítící Interaction Bar.\n\nSky Lounge: Panorama střecha s laserem gravírovanými světelnými vlákny, která v noci vytvářejí světelnou grafiku.\n\nKinosál na kolech: Zadní dotykový BMW Theatre Screen s úhlopříčkou 31,3\" a rozlišením 8K vyjíždí ze stropu.\n\n4D Audio: Systém Bowers & Wilkins Diamond Surround (nejen Wilkinson) s reproduktory v opěrkách hlavy a vibračními měniči v sedadlech – zvuk doslova cítíte v těle.\n\nMasážní lounge: Sedadla nabízejí 12 programů včetně masáže sedáků (prokrvení nohou).\n\nFascinující vychytávky\n\nAutomatické dveře: Otevírají se na tlačítko nebo hlasem. Stačí však jen šlápnout na brzdu a auto za vámi dveře samo tiše zavře – pocit absolutní obsluhy.\n\nZvuk od Hanse Zimmera: Zvukový projev IconicSounds Electric vytvořil držitel Oscara Hans Zimmer. V režimu M Sport zní i7 jako futuristický osmiválec z jiného světa.\n\nNejvětší, nejrychlejší a nejvýkonnější BMW\n\nJedná se s BMW XM Label Red o největší a nejvýkonnější model v historii značky:\n\nRozměry:\n\nDélka: 5,4 metru\n\nŠířka: 2 metry\n\nRozvor: 3,2 metru\n\nZadní natáčecí náprava\n\nVýkon: 659 koní (485 kW) a brutální točivý moment 1 100 Nm.\n\nRychlost: Zrychlení z 0 na 100 km/h za 3,7 sekundy (neuvěřitelné u auta vážícího 2,7 tuny).\n",
+        "difficulty": null,
+        "persons": [],
+        "moderator": null
+      },
+      {
+        "id": 69,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T10:40:00.000Z",
+        "stage": 1,
+        "name": "Konec tiskáren, začátek disciplíny? Zkrotí Kevin Warsh a bitcoin bilanci Fedu?",
+        "description": "Přednáška vysvětlí, proč je pro Warshe Bitcoin důležitý nikoli jako platidlo, ale jako barometr správnosti měnové politiky.\n1. Bitcoin jako „strážce“ měnové integrity\nWarsh věří, že Bitcoin slouží jako „policista“, který dává centrálním bankéřům zpětnou vazbu v reálném čase.\nPokud cena BTC prudce roste, je to pro Warshe signál, že trh nedůvěřuje stabilitě dolaru nebo že Fed pumpuje do systému příliš mnoho likvidity.\nV květnu 2026 bude tato teze klíčová pro jeho nástup do úřadu – Bitcoin už není nepřítelem, ale nástrojem pro disciplínu.\n2. Warshův plán: „Šoková terapie“ pro bilanci Fedu\nKevin Warsh dlouhodobě kritizuje „nafouklou“ bilanci Fedu (cca 6,7 bilionu dolarů) a označuje ji za zdroj tržních deformací.\nJeho cílem je agresivní zmenšení rozvahy (Quantitative Tightening), aby vrátil trhu jeho přirozenou funkci.\nRole Bitcoinu: V době, kdy bude Fed vysávat dolary z trhu, se očekává, že Bitcoin (jako „nové zlato pro generaci pod 40 let“) poslouží jako bezpečný přístav pro kapitál, který prchá z nejistých fiatových aktiv.\n3. Nové spojenectví: Pevný dolar a digitální zlato\nPřednáška ukáže paradox: Warsh chce silný, nezávislý Fed, který nebude „zachraňovat“ Wall Street tištěním peněz.\nTím, že Warsh omezí nadvládu Fedu nad trhem, vytvoří prostor, kde Bitcoin může naplno plnit svou roli digitálního standardu vzácnosti.\nPoprvé v historii může mít nejmocnější bankéř světa v portfoliu (nebo minimálně v hlavě) Bitcoin jako legitimní indikátor.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 8,
+            "status": "published",
+            "role": "speaker",
+            "sort": 5,
+            "name": "Lukáš Kovanda",
+            "position": "Hlavní ekonom Trinity Bank",
+            "img": "/media/9b2f6b8efe04e3aa854d.webp",
+            "motto": null,
+            "web_url": "http://www.lukaskovanda.cz/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/LukasKovanda",
+            "linkedin_url": "https://www.linkedin.com/in/luk%C3%A1%C5%A1-kovanda-82884497/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 63,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T10:40:00.000Z",
+        "stage": 3,
+        "name": "Od pixelů k řízení provozu",
+        "description": "Co kdyby kamery v průmyslu nejen snímaly, ale samy vyhodnocovaly a řídily provoz — automaticky, 24/7, s přesností na centimetry? Přesně to náš systém dělá. Z fotografie během vteřiny vytáhne fyzikální veličiny a předá je přímo řídicím systémům, které na jejich základě regulují provoz bez zásahu člověka. Využívá deep learning modely trénované na reálných datech z čistíren odpadních vod — kritické infrastruktury, kde přesné měření ovlivňuje kvalitu vody i náklady. Nahlédneme pod pokličku celého procesu — od principů, na kterých systém stojí, až po zkušenosti z reálného nasazení.",
+        "difficulty": 3,
+        "persons": [
+          {
+            "id": 57,
+            "status": "published",
+            "role": "speaker",
+            "sort": 58,
+            "name": "Bohumil Kolář",
+            "position": "Machine Learning Engineer v CXI TUL",
+            "img": "/media/3e562617599a2692a1e0.webp",
+            "motto": null,
+            "web_url": "https://www.cxi.tul.cz",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 86,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T10:40:00.000Z",
+        "stage": 4,
+        "name": "Časový a hodnotový test v praxi: jak je řešit ve WhaleBooks I",
+        "description": "Praktický workshop zaměřený na časový a hodnotový test u kryptoměn a jejich zpracování ve WhaleBooks. Ukážeme si, jak jsou nastavena daňová pravidla, jak se promítají do evidence portfolia a skladů a jak s nimi pracovat v reportingu. Součástí bude i přehled daňově osvobozených transakcí, reporting transakcí nad 5 mil. Kč a souvislost s limitem 40 mil. Kč pro daňové osvobození. Workshop je vhodný pro uživatele WhaleBooks i pro ty, kdo chtějí lépe pochopit praktickou stránku nové daňové úpravy. Na závěr bude prostor pro dotazy.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 32,
+            "status": "published",
+            "role": "speaker",
+            "sort": 33,
+            "name": "Ondřej Varga",
+            "position": "Project manager - WhaleBooks",
+            "img": "/media/ba9461842712dad802af.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/ondrejvarga",
+            "linkedin_url": "https://www.linkedin.com/in/ondrejvarga/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 80,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T10:40:00.000Z",
+        "stage": 5,
+        "name": "Bitcoin prakticky ",
+        "description": "Pro začátečníky i ty, kteří chtějí vysvětlovat bitcoin ostatním. Projdeme si praktické aspekty bitcoinu a plateb, vyhledáme si zajímavé bitcoinové adresy a probere, co funguje při vysvětlování nováčkům.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 61,
+            "status": "published",
+            "role": "speaker",
+            "sort": 61,
+            "name": "Dominika Vykydalová",
+            "position": "Content Invity",
+            "img": "/media/e04d33aefd5ca34f801c.webp",
+            "motto": null,
+            "web_url": "https://invity.io/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": "https://www.linkedin.com/in/dominikavykydalova/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 68,
+        "status": "published",
+        "format": "panel",
+        "length": 60,
+        "start": "2026-05-16T11:40:00.000Z",
+        "stage": 1,
+        "name": "Bitcoin 2026: Přežije jako ostrov svobody nebo ho zničí státy či AI? ",
+        "description": "Bitcoin je aktuálně pod tlakem řady událostí, od kybernetické hrozby po bezpečnostní rizika a regulaci. Má odolnost na to, přežít dál i ve svém původním smyslu? Co jsou největší rizika? A co ostatní kryptoměny? ",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 22,
+            "status": "published",
+            "role": "speaker",
+            "sort": 2,
+            "name": "Ladislav Krištoufek",
+            "position": "Ekonom, profesor, prorektor, ČVUT",
+            "img": "/media/f60949690bd4d26aeb88.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/lkristoufek",
+            "linkedin_url": "https://www.linkedin.com/in/ladislav-kri%C5%A1toufek-83a27914/",
+            "instagram_url": null,
+            "email": null
+          },
+          {
+            "id": 7,
+            "status": "published",
+            "role": "speaker",
+            "sort": 4,
+            "name": "Jakub \"Kicom\" Vejmola",
+            "position": "Youtuber a fanda predikčních trhů",
+            "img": "/media/205ce17950f465cbe44d.webp",
+            "motto": null,
+            "web_url": "https://bitcoinovejkanal.cz/",
+            "youtube_url": "https://www.youtube.com/BitcoinovejKanal",
+            "facebook_url": null,
+            "x_url": "https://x.com/BitcoinovejKnl",
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          },
+          {
+            "id": 5,
+            "status": "published",
+            "role": "speaker",
+            "sort": 7,
+            "name": "Josef Tětek",
+            "position": "Ekonom, autor několika knih o Bitcoinu a penězích, tvůrce podcastu Stackuj.",
+            "img": "/media/8ad9fda2d6797a823210.webp",
+            "motto": null,
+            "web_url": "https://stackuj.cz/",
+            "youtube_url": "https://www.youtube.com/@stackuj",
+            "facebook_url": null,
+            "x_url": "https://x.com/JosefTetek",
+            "linkedin_url": "https://www.linkedin.com/in/joseftetek/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": {
+          "id": 47,
+          "status": "published",
+          "role": "moderator",
+          "sort": 11,
+          "name": "Tereza Zavadilová",
+          "position": "Byznysová novinářka, CEO zpravodajského webu newstream.cz",
+          "img": "/media/f20022262435724449e1.webp",
+          "motto": null,
+          "web_url": null,
+          "youtube_url": null,
+          "facebook_url": null,
+          "x_url": null,
+          "linkedin_url": "https://www.linkedin.com/in/tereza-zavadilova-97b1261b/",
+          "instagram_url": null,
+          "email": null
+        }
+      },
+      {
+        "id": 60,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T11:40:00.000Z",
+        "stage": 2,
+        "name": "Proč většina lidí s bitcoinem nezačne (a co s tím)?",
+        "description": "Většina lidí ví, že by do bitcoinu měla pravidelně spořit. A stejně to odkládají. Problém není bitcoin, problém jsme my a naše chování. V přednášce ukážu, proč běžné rady typu „kupuj pravidelně\" selhávají, co místo toho funguje a jak si nastavit systém, který drží i tehdy, když motivace skončí. Pro začátečníky i pro ty, kdo chtějí pomoct rodině a kamarádům začít.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 64,
+            "status": "published",
+            "role": "speaker",
+            "sort": null,
+            "name": "David Mirzazada",
+            "position": "CMO aplikace Littlebit",
+            "img": "/media/6a926f4f91a011e29db9.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/joinLittlebit",
+            "linkedin_url": "https://www.linkedin.com/in/davidmirzazada/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 98,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T11:40:00.000Z",
+        "stage": 3,
+        "name": "Matematika Bitcoinu – aneb matematické principy bitcoinové revoluce",
+        "description": "Relativně „krátká“ přednáška se bude týkat kompaktně shrnutých vybraných částí z právě vyšlé knihy. Proč krátká? Kniha vznikala na základě téměř deset let trvající cesty, od prvotní absolutní nedůvěry k relativně hlubokému pochopení matematických základů Bitcoinu. Následoval WOW efekt, který vyvolal nutkání sdělit toto geniální poselství ostatním. Vznikla kniha, která se dá bez přemýšlení přečíst za dvě hodiny. Ale k některým pasážím se musíte vracet opakovaně a mnohdy si ještě doplnit základní znalosti intenzivnějším samostudiem.\n\nSamostatné dílčí bloky budou probrány v souvisejím Workshopu ve 13:10:\nOneByteToy – Matematika „jednobajtového“ Bitcoinu aneb nebojme se eliptických křivek a hashovacích funkcí.",
+        "difficulty": 3,
+        "persons": [
+          {
+            "id": 51,
+            "status": "published",
+            "role": "speaker",
+            "sort": 53,
+            "name": "Jan Čopák",
+            "position": "Agamapoint",
+            "img": "/media/8d7ac02b7f581b64ba06.webp",
+            "motto": null,
+            "web_url": "https://www.agamapoint.com/bitcoin/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/agamapoint",
+            "linkedin_url": "https://www.linkedin.com/in/jan-%C4%8Dop%C3%A1k-86682152/",
+            "instagram_url": "https://www.instagram.com/octopusengine",
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 82,
+        "status": "published",
+        "format": "workshop",
+        "length": 60,
+        "start": "2026-05-16T11:40:00.000Z",
+        "stage": 4,
+        "name": "Promptpunk",
+        "description": "AI nemění jen nástroje, ale i naše chyby. Workshop ukáže nové hrozby, které vznikají, když lidé začnou programovat, rozhodovat a myslet přes prompt. Protože „zeptal jsem se AI“ není bezpečnostní strategie.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 12,
+            "status": "published",
+            "role": "speaker",
+            "sort": 8,
+            "name": "Milan \"Sodomák\" Půlkrábek",
+            "position": "Information Security Consultant",
+            "img": "/media/f9b45a8fa3c842469c93.webp",
+            "motto": null,
+            "web_url": "https://www.digitalni-sebeobrana.cz/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/sodomak",
+            "linkedin_url": "https://www.linkedin.com/in/milanpulkrabek/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 76,
+        "status": "published",
+        "format": "workshop",
+        "length": 60,
+        "start": "2026-05-16T11:40:00.000Z",
+        "stage": 5,
+        "name": "Linky - bitcoin pro lidi, na kterých vám záleží",
+        "description": "Jakou bitcoinovou peněženku dnes známým doporučíte? Linky přináší nové způsoby jak s bitcoinem pomoci vašim známým. Bitcoin jim můžete poslat přes libovolný messenger, i když ještě žádnou peněženku nemají. Nebo třeba ve formě NFC karty.\n\nPojďte si to vyzkoušet na živo a probrat výhody a nevýhody i alternativních řešení.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 56,
+            "status": "published",
+            "role": "speaker",
+            "sort": 56,
+            "name": "Hynek Jína",
+            "position": "Product manager, Trezor",
+            "img": "/media/f50f6dff47db0ef8ae06.webp",
+            "motto": null,
+            "web_url": "https://linky.fit/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 96,
+        "status": "published",
+        "format": "side",
+        "length": 10,
+        "start": "2026-05-16T12:40:00.000Z",
+        "stage": 1,
+        "name": "Krotitelé entropie - křest knihy Juraje Bednára",
+        "description": "\"Krotitelé Entropie staví na myšlenkách Lunarpunku. Ten spojuje Cypherpunk — šifrování, anonymitu a budování paralelních struktur mimo dosah starých institucí — se Solarpunkem, který mluví o pozitivním vztahu k technologiím a přírodě. Lunarpunk bere to nejlepší z obou: budujeme nové věci, jsme zakotveni v přírodním rytmu, ale jdeme vlastní cestou — neviditelní, paralelní, decentralizovaní.\" To o své nové knize, kterou pokřtíme, říká Juraj Bednár.",
+        "difficulty": null,
+        "persons": [],
+        "moderator": null
+      },
+      {
+        "id": 57,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T13:10:00.000Z",
+        "stage": 1,
+        "name": "Saylorův Stretch - STRC",
+        "description": "Je STRC nejgeniálnější finanční produkt této dekády nebo Ponzi schéma, které se opírá o důvěryhodnost Bitcoinu? A máme se jako bitcoineři bát nebo STRC kupovat?  ",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 7,
+            "status": "published",
+            "role": "speaker",
+            "sort": 4,
+            "name": "Jakub \"Kicom\" Vejmola",
+            "position": "Youtuber a fanda predikčních trhů",
+            "img": "/media/205ce17950f465cbe44d.webp",
+            "motto": null,
+            "web_url": "https://bitcoinovejkanal.cz/",
+            "youtube_url": "https://www.youtube.com/BitcoinovejKanal",
+            "facebook_url": null,
+            "x_url": "https://x.com/BitcoinovejKnl",
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          },
+          {
+            "id": 27,
+            "status": "published",
+            "role": "speaker",
+            "sort": 10,
+            "name": "Aleš Vávra",
+            "position": "Obyčejný člověk a bitcoinový skeptik",
+            "img": "/media/d1829459c3f75863f00b.webp",
+            "motto": null,
+            "web_url": "https://substack.com/@alesvavra789318",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/ales_vavra",
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 71,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T13:10:00.000Z",
+        "stage": 2,
+        "name": "Krypto v roce 2026: návod na použití (a přežití)",
+        "description": "Radim Kozub nabídne praktický návod pro všechny, kdo se v roce 2026 pohybují ve světě kryptoměn, ať už jako retailoví investoři, podnikatelé, majitelé firem nebo High Net Worth Individuals. Přednáška ukáže, jak se připravit na stále silnější regulaci, jak chránit své soukromí i majetek, jak přemýšlet o self-custody, daňových otázkách, bitcoinu ve firmě a jak dlouhodobě strukturovat svůj krypto majetek.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 16,
+            "status": "published",
+            "role": "speaker",
+            "sort": 42,
+            "name": "Radim Kozub",
+            "position": "Spoluzakladatel Blockchain Legal",
+            "img": "/media/c948070c04d1b3ecb459.webp",
+            "motto": null,
+            "web_url": "https://www.blockchainlegal.cz/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/RadimKozzub",
+            "linkedin_url": "https://www.linkedin.com/in/radim-kozub-4728a2133/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 87,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T13:10:00.000Z",
+        "stage": 4,
+        "name": "OneByteToy – Matematika „jednobajtového“ Bitcoinu aneb nebojme se eliptických křivek a hashovacích funkcí",
+        "description": "Právě vyšla kniha Matematika Bitcoinu, a jsou zde pasáže, které se dají lépe přiblížit až na interaktivním workshopu.\nPro tento účel vznikl „nástroj“, který se dá použít na lepší objasnění základů matematiky, na kterých Bitcoin stojí.\nZmíním tři základní části:\n1) na malých číslech si prosvištíme teorii Grup, asymetrickou kryptografii i eliptické křivky\n2) přibrzdím u mé oblíbené části: jak velká jsou ta velká čísla v Bitcoinu?\n3) celé to sesadíme do sestavení a podepisování transakcí plus jejich zařazování do bloků\n\nKdo bude mít s sebou noťas (připojený k WiFi) bude si moct s některými principy pohrát na místě. Pro účely workshopu postupně vzniká celá řada interaktivních nástrojů, které za pomoci „lektora“ dávají větší smysl, než při individuálním studiu.\n\n",
+        "difficulty": 3,
+        "persons": [
+          {
+            "id": 51,
+            "status": "published",
+            "role": "speaker",
+            "sort": 53,
+            "name": "Jan Čopák",
+            "position": "Agamapoint",
+            "img": "/media/8d7ac02b7f581b64ba06.webp",
+            "motto": null,
+            "web_url": "https://www.agamapoint.com/bitcoin/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/agamapoint",
+            "linkedin_url": "https://www.linkedin.com/in/jan-%C4%8Dop%C3%A1k-86682152/",
+            "instagram_url": "https://www.instagram.com/octopusengine",
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 77,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T13:10:00.000Z",
+        "stage": 5,
+        "name": "Proč si bitcoineři oblíbili Turbo Buy",
+        "description": "Spousta bitcoinerů tuto strategii zbožňuje, někteří mají námitky. Ať už patříte do kterékoliv skupiny, nebo jen chcete vědět víc, přijďte zjistit, jak přesně Turbo Buy funguje po ekonomické i technické stránce. Všechny otázky jsou vítány.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 59,
+            "status": "published",
+            "role": "speaker",
+            "sort": 60,
+            "name": "Matouš Ledvina",
+            "position": "Bitcoinový a marketingový nadšenec, Invity",
+            "img": "/media/30d2a8277faa71a188cf.webp",
+            "motto": null,
+            "web_url": "https://invity.io/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/MatousLed",
+            "linkedin_url": "https://www.linkedin.com/in/matousledvina/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 91,
+        "status": "published",
+        "format": "side",
+        "length": 40,
+        "start": "2026-05-16T13:50:00.000Z",
+        "stage": 6,
+        "name": "Autogramiády dvou knih: Matematika Bitcoinu a Krotitelé entropie",
+        "description": "Na CryptoByte 2026 pokřtíme dvě knihy:\n\nMatematika Bitcoinu od Honzy Čopáka\nKrotitelé entropie od Juraje Bednára\n\nObě knihy si během dne můžete koupit na stánku CryptoByte a tam si je také od autorů můžete nechat podepsat.",
+        "difficulty": null,
+        "persons": [],
+        "moderator": null
+      },
+      {
+        "id": 73,
+        "status": "published",
+        "format": "panel",
+        "length": 60,
+        "start": "2026-05-16T14:05:00.000Z",
+        "stage": 1,
+        "name": "2 roky s MiCA",
+        "description": "Stav kryptobyznysu v ČR. Co se po schválení regulace MiCA povedlo a co zůstalo nevyřešené. DAC8, travel rule a další vyhlášky a nařízení. Jaká je reálná konkurence schopnost evropských firem v porovnání s okolním světem.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 40,
+            "status": "published",
+            "role": "speaker",
+            "sort": 40,
+            "name": "Jiří Havránek",
+            "position": "Poslanec PS PČR (ODS)",
+            "img": "/media/fa554fe6025861af7dca.webp",
+            "motto": null,
+            "web_url": "https://www.psp.cz/sqw/detail.sqw?id=6755",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/j_havranek",
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": "havranekj@psp.cz"
+          },
+          {
+            "id": 49,
+            "status": "published",
+            "role": "speaker",
+            "sort": 49,
+            "name": "Michal Nýdrle",
+            "position": "Investor, Invity partner, filantrop",
+            "img": "/media/489741bb4c9944cf2356.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": "https://www.linkedin.com/in/michal-nydrle/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": {
+          "id": 63,
+          "status": "published",
+          "role": "moderator",
+          "sort": 52,
+          "name": "Roman Fabiánek",
+          "position": "Advokát, Deloitte Legal",
+          "img": "/media/0a4e5e0660cca1fb5ccb.webp",
+          "motto": null,
+          "web_url": null,
+          "youtube_url": null,
+          "facebook_url": null,
+          "x_url": null,
+          "linkedin_url": "https://www.linkedin.com/in/romanfabianek/",
+          "instagram_url": null,
+          "email": null
+        }
+      },
+      {
+        "id": 59,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T14:05:00.000Z",
+        "stage": 2,
+        "name": "Těžba Bitcoinu je podnikání jako každé jiné",
+        "description": "Murray Rothbard napsal o těžbě zlata, že to není nijak privilegovaná činnost a je to podnikání jako každé jiné. O šedesát let později totéž platí o těžbě Bitcoinu a je to jeden z nejsilnějších argumentů proč ji dělat. František Kohout, programátor, těžař a autor diplomové práce o rizicích centralizace těžby z roku 2025, spojuje Rothbardovu \"Peníze v rukou státu\" s reálnou praxí: jak peníze vznikají na volném trhu, jak je stát systematicky ničí, a proč je Proof of Work přirozenou odpovědí na 110 let měnového rozkladu Západu.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 34,
+            "status": "published",
+            "role": "speaker",
+            "sort": 38,
+            "name": "František Kohout",
+            "position": "CEO Galosoft",
+            "img": "/media/dbe601c28372116cfed3.webp",
+            "motto": null,
+            "web_url": "https://www.galosoft.cz/cs/crypto",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/Galosoft",
+            "linkedin_url": "https://www.linkedin.com/in/frantisekkohout/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 70,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T14:05:00.000Z",
+        "stage": 3,
+        "name": "Štyri piliere moderného človeka: AI, Bitcoin, svet peňazí a zdravie",
+        "description": "Svet sa mení rýchlejšie, než si stíhame uvedomiť, a umelá inteligencia je hlavným motorom tejto zmeny. Pozrieme sa na to, ako AI ovplyvní všetko od trhu práce až po hodnotu fiat mien, a prečo je v tomto kontexte Bitcoin nevyhnutným záchranným člnom. Prednáška sa bude venovať aj dôležitosti prehľadu vo svete financií a pevnému a psychickému zdraviu v čase najväčších zmien.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 10,
+            "status": "published",
+            "role": "speaker",
+            "sort": 12,
+            "name": "Martin Gregor",
+            "position": "Krypto a AI youtuber",
+            "img": "/media/27f48a170d7a2b4f2179.webp",
+            "motto": null,
+            "web_url": "https://www.zaujaloma.sk/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/ZaujaloMa",
+            "linkedin_url": "https://www.linkedin.com/in/martin-gregor-9870851bb/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 81,
+        "status": "published",
+        "format": "workshop",
+        "length": 60,
+        "start": "2026-05-16T14:05:00.000Z",
+        "stage": 4,
+        "name": "Firefish – živá ukázka, jak neprodat bitcoin",
+        "description": "Neprodávejte bitcoin, ale použijte ho jako kolaterál. Na živé ukázce si vysvětlíme, jak funguje bitcoin-backed lending, a projdeme si celý proces krok za krokem. Ukážeme si také hlavní výhody non-custodial protokolu — a proč díky němu máte své satoshi pořád pod kontrolou.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 17,
+            "status": "published",
+            "role": "speaker",
+            "sort": 23,
+            "name": "Jan \"Gorrdy\" Dvořák",
+            "position": "Firefish",
+            "img": "/media/02745493da939d121ed7.webp",
+            "motto": null,
+            "web_url": "https://firefish.io/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/_Honza_Dvorak",
+            "linkedin_url": "https://www.linkedin.com/in/jan-dvo%C5%99%C3%A1k-a712b8154/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 84,
+        "status": "published",
+        "format": "workshop",
+        "length": 60,
+        "start": "2026-05-16T14:05:00.000Z",
+        "stage": 5,
+        "name": "Zrušte bankovní účty! Život na bitcoinu je tady!",
+        "description": "Bitcoin jako investici už všichni znají. Bitcoin jsou ale v prvé řadě peníze. Přichází čas pro \"život na bitcoinu\". Zkouším to už delší dobu a shrnul bych to jako \"jde to ale dře to\". Proč? Protože abychom nahradili fiat, musíme poskytnout lidem nejen \"lepší peníze\" (to už bitoin splňuje), ale i stejný nebo větší komfort pro každodenní život - v zásadě bitcoinové bankovnictví. A tam ještě rozhodně nejsme - stávající nabídka software a finančních služeb je zoufale nedostatečná. \n\nPojďte se podívat na zkušenosti s životem na bitcoinu, shrnutí toho co v bitcoinovém aplikačním ekosystému nejvíce chybí a kde jsou díry na trhu. A třeba to budete právě vy, kdo chybějící nástroje vyrobí a postaví si na tom úspěšný byznys.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 45,
+            "status": "published",
+            "role": "speaker",
+            "sort": 48,
+            "name": "Adam Chvaja",
+            "position": "Bitcoin rider, Serial entrepreneur, Head of ČKMA, Anarcho-capitalist",
+            "img": "/media/56d28d69dcbebc8777f7.webp",
+            "motto": null,
+            "web_url": "https://adam.chvaja.cz/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/chvajaa",
+            "linkedin_url": "https://www.linkedin.com/in/chvaja/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 97,
+        "status": "published",
+        "format": "side",
+        "length": 10,
+        "start": "2026-05-16T15:05:00.000Z",
+        "stage": 1,
+        "name": "Matematika Bitcoinu - křest knihy Honzy Čopáka, ",
+        "description": "Křest asi nejodbornější knihy o Bitcoinu, napsané v češtině. Popřejeme Honzovi Čopákovi hodně zdaru s jeho knihou a pokřtíme Merkleovy stromy, modulo, eliptické křivky, SHA256, ... :-)",
+        "difficulty": null,
+        "persons": [],
+        "moderator": null
+      },
+      {
+        "id": 62,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T15:25:00.000Z",
+        "stage": 1,
+        "name": "Důvěra je nejtvrdší měna na trhu",
+        "description": "Co znamená erodující kredit dolaru, rekordně koncentrovaný americký akciový trh a neochvějná víra v nemovitosti pro naše rodinné peněženky? Osobní pohled na tři pilíře, o které opíráme své bohatství, a otázka, jestli pod nimi není prasklina.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 49,
+            "status": "published",
+            "role": "speaker",
+            "sort": 49,
+            "name": "Michal Nýdrle",
+            "position": "Investor, Invity partner, filantrop",
+            "img": "/media/489741bb4c9944cf2356.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": "https://www.linkedin.com/in/michal-nydrle/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 55,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T15:25:00.000Z",
+        "stage": 2,
+        "name": "Dopad AI na kryptoanarchiu",
+        "description": "Zastaví alebo naopak urýchli AI nástup kryptoanarchie a jej technológií?",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 30,
+            "status": "published",
+            "role": "speaker",
+            "sort": 30,
+            "name": "Pavol Lupták",
+            "position": "Globální oportunista, etický hacker a digitální nomád",
+            "img": "/media/2edbed572cf021c8dbdb.webp",
+            "motto": null,
+            "web_url": "https://opportunist.global/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/wilderko",
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 83,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T15:25:00.000Z",
+        "stage": 4,
+        "name": "Bezpečnost jako produkt: engineering a kvalita v době AI",
+        "description": "V době AI je jednodušší než dřív rychle stavět nové věci, ale o to těžší je udržet jejich kvalitu, bezpečnost a spolehlivost. Ukážu, proč bezpečnost není jen technická vrstva navíc, ale součást samotného produktu a důvěry zákazníka. Workshop nabídne pohled CTO na to, jak se v praxi rozhoduje mezi rychlostí dodávky, engineering kvalitou a reálným rizikem. A také proč právě v AI éře roste význam disciplíny, ne jen rychlosti.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 58,
+            "status": "published",
+            "role": "speaker",
+            "sort": 59,
+            "name": "Dominik Moštěk",
+            "position": "Chief Technology Officer v Coinmate",
+            "img": "/media/dd6ac48351b2986e42c8.webp",
+            "motto": null,
+            "web_url": "https://coinmate.io/cs",
+            "youtube_url": "https://www.youtube.com/@coinmate_io/",
+            "facebook_url": "https://www.facebook.com/Coinmate.io/",
+            "x_url": "https://x.com/CoinmateBT/",
+            "linkedin_url": "https://www.linkedin.com/in/dominikmostek/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 89,
+        "status": "published",
+        "format": "workshop",
+        "length": 95,
+        "start": "2026-05-16T15:25:00.000Z",
+        "stage": 5,
+        "name": "Uzel do každé rodiny",
+        "description": "Workshop je určen pro středně pokročilé bitcoinery, kteří už mají povědomí o on-chain, LN a chtějí se osamostatnit od kustodiánů. Postavíme si LN node na umbrelu. Žádnej HC pro kovaný linuxáky. Klikačka pro masy. Raspi + BTC node + LND + thunderhub + základní likvidity management.",
+        "difficulty": 3,
+        "persons": [
+          {
+            "id": 36,
+            "status": "published",
+            "role": "speaker",
+            "sort": 35,
+            "name": "Eddie",
+            "position": "Bitcoiner - Leader 21",
+            "img": "/media/845c67e15dc75f2f4488.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": "eddie@jednadvacet.org"
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 67,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T16:20:00.000Z",
+        "stage": 1,
+        "name": "Mírumilovná (krypto)anarchie",
+        "description": "Spousta (krypto)anarchistů se zlobí – na stát, svět, politiky, ale i na sebe navzájem; vytváříme různé tábory, třeba BTC maximalisty versus ostatní… Vést dialog a konfrontovat své názory s jejich oponenty je určitě konstruktivní; vytvářet tábory a vybírat si strany naopak destruktivní. Jak moc chceme vytvářet paralelní struktury? A jak moc se hádat?",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 20,
+            "status": "published",
+            "role": "speaker",
+            "sort": 25,
+            "name": "Urza",
+            "position": "Anarchokapitalista, tvůrce Svobodného přístavu, učitel v sebeřízené škole Ježek bez klece",
+            "img": "/media/59bc121e1399dd980ec2.webp",
+            "motto": null,
+            "web_url": "https://www.urza.cz/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 54,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T16:20:00.000Z",
+        "stage": 3,
+        "name": "Jak ulovit memetického ducha",
+        "description": "Lidé používají při tvorbě kódu, textu, obrázků, hudby, poezie, … umělou inteligenci. Naivní používání však nevede k tak zajímavým výsledkům. Jak funguje strojová intuice, co jsou mémbionti a jak používat umělou inteligenci při tvorbě?",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 18,
+            "status": "published",
+            "role": "speaker",
+            "sort": 24,
+            "name": "Juraj Bednár",
+            "position": "Autor knih / seriový podnikatel",
+            "img": "/media/51b9c517f39b7987a513.webp",
+            "motto": null,
+            "web_url": "https://juraj.bednar.io/",
+            "youtube_url": "https://www.youtube.com/@jurbed",
+            "facebook_url": "https://www.facebook.com/juraj.bednar",
+            "x_url": "https://x.com/jurbed",
+            "linkedin_url": "https://www.linkedin.com/in/jbednar/",
+            "instagram_url": "https://www.instagram.com/juraj.bednar/",
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 88,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T16:20:00.000Z",
+        "stage": 4,
+        "name": "Základy Vexl aplikace >> instalace FreedomStore",
+        "description": "Nainstalujeme aplikaci (instalace z Freedom na platformě iOS), nastavíme profil a projdeme základní funkce – od prohlížení nabídek až po vytvoření vlastního obchodu. Workshop je vhodný pro začátečníky i mírně pokročilé, kteří chtějí pochopit, jak bezpečně nakupovat a prodávat bitcoin přímo mezi lidmi.",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 60,
+            "status": "published",
+            "role": "speaker",
+            "sort": 57,
+            "name": "Michal",
+            "position": "VEXL komunitní manažer pro ČR",
+            "img": "/media/9b19857bfb8afc447d8d.webp",
+            "motto": null,
+            "web_url": "https://vexl.it/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/BitcoinCesky",
+            "linkedin_url": null,
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 58,
+        "status": "published",
+        "format": "presentation",
+        "length": 45,
+        "start": "2026-05-16T17:15:00.000Z",
+        "stage": 1,
+        "name": "Kvantová hrozba pro bitcoin",
+        "description": "O hrozbě kvantových počítačů pro bitcoin a digitální aktiva obecně se v poslední době mluví stále více. V této přednášce si řekneme, zda je tato hrozba reálná, jak konkrétně je bitcoin ohrožen, co mohou běžní uživatelé dělat již dnes a jaký je stav případných řešení.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 11,
+            "status": "published",
+            "role": "speaker",
+            "sort": 6,
+            "name": "Michal Novák",
+            "position": "Analytik a konzultant v oblasti digitálních aktiv, autor dvou knih s bitcoinovou tématikou",
+            "img": "/media/507530eb3fda481bc70b.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/michal_novak_21",
+            "linkedin_url": null,
+            "instagram_url": "https://www.instagram.com/michal.novak.728/",
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 101,
+        "status": "published",
+        "format": "presentation",
+        "length": 40,
+        "start": "2026-05-16T17:20:00.000Z",
+        "stage": 3,
+        "name": "Not Your Data, Not Your AI",
+        "description": "V kryptosvětě platí jednoduché pravidlo: pokud nemáte pod kontrolou své klíče, nemáte  pod kontrolou své prostředky. Podobná logika začíná platit i pro umělou inteligenci. Přednáška se zaměří na to, proč u citlivých dat nestačí spoléhat na veřejné cloudové AI služby, sliby o netrénování na zákaznických datech ani na marketingovou představu „privátního“ cloudu. Zaměříme se na to, proč je pro firmy zásadní mít pod kontrolou data, infrastrukturu, přístupová pravidla i audit a jakou roli v tom hraje privátní AI provozovaná v prostředí klienta. Součástí bude i širší pohled na sporné praktiky trénování velkých modelů, právní nejistoty kolem výstupů generativní AI a otázku, kde má být hranice mezi otevřeným tréninkem, opt-outem a ochranou citlivého know-how.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 54,
+            "status": "published",
+            "role": "speaker",
+            "sort": 54,
+            "name": "Mgr. Peter Slezák",
+            "position": "Senior AI developer, STYRAX Consulting",
+            "img": "/media/2fc6c839e153de08b651.webp",
+            "motto": null,
+            "web_url": "https://styraxconsulting.cz/",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": null,
+            "linkedin_url": "https://www.linkedin.com/in/peter-slez%C3%A1k-0b9007118?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BitfvbXOS%2BGZEPFD9aJtng%3D%3D",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 78,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T17:20:00.000Z",
+        "stage": 4,
+        "name": "Od nápadu k webu za 1 minutu",
+        "description": "Přijďte se podívat, jak vzniká web v roce 2026. Žádné šablony, žádný designér, žádný kodér, žádné čekání na agenturu. Na workshopu Vám ukážeme nejnovější tool z naší AI dílny. Nástroj, který web vygeneruje z toho, co mu napíšete. Živě, před vámi, za jednu minutu.\nProjdeme si, jak AI builderům správně zadávat požadavky, kde jsou jejich limity a kde naopak překvapí. Workshop je vhodný pro každého – podnikatele, marketéry i zvědavce bez IT základů. Na konci budete vědět, jestli a jak vám AI může ušetřit čas a peníze. Chcete AI use case? Tady je! ",
+        "difficulty": 1,
+        "persons": [
+          {
+            "id": 34,
+            "status": "published",
+            "role": "speaker",
+            "sort": 38,
+            "name": "František Kohout",
+            "position": "CEO Galosoft",
+            "img": "/media/dbe601c28372116cfed3.webp",
+            "motto": null,
+            "web_url": "https://www.galosoft.cz/cs/crypto",
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/Galosoft",
+            "linkedin_url": "https://www.linkedin.com/in/frantisekkohout/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      },
+      {
+        "id": 85,
+        "status": "published",
+        "format": "workshop",
+        "length": 40,
+        "start": "2026-05-16T17:20:00.000Z",
+        "stage": 5,
+        "name": "Časový a hodnotový test v praxi: jak je řešit pomocí WhaleBooks II",
+        "description": "Praktický workshop zaměřený na časový a hodnotový test u kryptoměn a jejich zpracování ve WhaleBooks. Ukážeme si, jak jsou nastavena daňová pravidla, jak se promítají do evidence portfolia a skladů a jak s nimi pracovat v reportingu. Součástí bude i přehled daňově osvobozených transakcí, reporting transakcí nad 5 mil. Kč a souvislost s limitem 40 mil. Kč pro daňové osvobození. Workshop je vhodný pro uživatele WhaleBooks i pro ty, kdo chtějí lépe pochopit praktickou stránku nové daňové úpravy. Na závěr bude prostor pro dotazy.",
+        "difficulty": 2,
+        "persons": [
+          {
+            "id": 32,
+            "status": "published",
+            "role": "speaker",
+            "sort": 33,
+            "name": "Ondřej Varga",
+            "position": "Project manager - WhaleBooks",
+            "img": "/media/ba9461842712dad802af.webp",
+            "motto": null,
+            "web_url": null,
+            "youtube_url": null,
+            "facebook_url": null,
+            "x_url": "https://x.com/ondrejvarga",
+            "linkedin_url": "https://www.linkedin.com/in/ondrejvarga/",
+            "instagram_url": null,
+            "email": null
+          }
+        ],
+        "moderator": null
+      }
+    ],
+    "meta": {
+      "values": {
+        "0.start": [
+          "Date"
+        ],
+        "1.start": [
+          "Date"
+        ],
+        "2.start": [
+          "Date"
+        ],
+        "3.start": [
+          "Date"
+        ],
+        "4.start": [
+          "Date"
+        ],
+        "5.start": [
+          "Date"
+        ],
+        "6.start": [
+          "Date"
+        ],
+        "7.start": [
+          "Date"
+        ],
+        "8.start": [
+          "Date"
+        ],
+        "9.start": [
+          "Date"
+        ],
+        "10.start": [
+          "Date"
+        ],
+        "11.start": [
+          "Date"
+        ],
+        "12.start": [
+          "Date"
+        ],
+        "13.start": [
+          "Date"
+        ],
+        "14.start": [
+          "Date"
+        ],
+        "15.start": [
+          "Date"
+        ],
+        "16.start": [
+          "Date"
+        ],
+        "17.start": [
+          "Date"
+        ],
+        "18.start": [
+          "Date"
+        ],
+        "19.start": [
+          "Date"
+        ],
+        "20.start": [
+          "Date"
+        ],
+        "21.start": [
+          "Date"
+        ],
+        "22.start": [
+          "Date"
+        ],
+        "23.start": [
+          "Date"
+        ],
+        "24.start": [
+          "Date"
+        ],
+        "25.start": [
+          "Date"
+        ],
+        "26.start": [
+          "Date"
+        ],
+        "27.start": [
+          "Date"
+        ],
+        "28.start": [
+          "Date"
+        ],
+        "29.start": [
+          "Date"
+        ],
+        "30.start": [
+          "Date"
+        ],
+        "31.start": [
+          "Date"
+        ],
+        "32.start": [
+          "Date"
+        ],
+        "33.start": [
+          "Date"
+        ],
+        "34.start": [
+          "Date"
+        ],
+        "35.start": [
+          "Date"
+        ],
+        "36.start": [
+          "Date"
+        ],
+        "37.start": [
+          "Date"
+        ],
+        "38.start": [
+          "Date"
+        ],
+        "39.start": [
+          "Date"
+        ],
+        "40.start": [
+          "Date"
+        ]
+      },
+      "v": 1
+    }
+  },
+  "partners": [
+    {
+      "id": 3,
+      "status": "published",
+      "sort": 2,
+      "name": "Develit",
+      "url": "https://develit.io",
+      "logo": "/media/c328f4ad9aa8e097c91c.svg",
+      "category": "fan_partner"
+    },
+    {
+      "id": 4,
+      "status": "published",
+      "sort": 3,
+      "name": "Anycoin",
+      "url": "https://www.anycoin.cz/",
+      "logo": "/media/25c0178617a838f2ee69.png",
+      "category": "prima_partner"
+    },
+    {
+      "id": 6,
+      "status": "published",
+      "sort": 4,
+      "name": "Coinmate",
+      "url": "https://coinmate.io/cs",
+      "logo": "/media/985a71e31af56f330fd4.png",
+      "category": "skvely_partner"
+    },
+    {
+      "id": 7,
+      "status": "published",
+      "sort": 5,
+      "name": "Galosoft",
+      "url": "https://www.galosoft.cz/cs/crypto",
+      "logo": "/media/e1e0345ce75d2ff5df9b.png",
+      "category": "prima_partner"
+    },
+    {
+      "id": 5,
+      "status": "published",
+      "sort": 7,
+      "name": "Bitcoinmat",
+      "url": "https://www.bitcoinmat.sk/Home",
+      "logo": "/media/3b85eef7dcc1a19037ba.png",
+      "category": "afterparty_partner"
+    },
+    {
+      "id": 13,
+      "status": "published",
+      "sort": 10,
+      "name": "Štosuj",
+      "url": "https://stosuj.cz/",
+      "logo": "/media/8e9cbc740b14c99a11f1.png",
+      "category": "fan_partner"
+    },
+    {
+      "id": 14,
+      "status": "published",
+      "sort": 12,
+      "name": "blabol.io",
+      "url": "https://blabol.io/",
+      "logo": "/media/01272627e67ce6dcf0c3.png",
+      "category": "super_partner"
+    },
+    {
+      "id": 16,
+      "status": "published",
+      "sort": 13,
+      "name": "Coinero",
+      "url": "https://coinero.cz/",
+      "logo": "/media/0173a61ef770b13f9ac5.svg",
+      "category": "fan_partner"
+    },
+    {
+      "id": 21,
+      "status": "published",
+      "sort": 15,
+      "name": "Liberecky kraj",
+      "url": "https://www.kraj-lbc.cz/",
+      "logo": "/media/ca0f25ae6d2b100f45eb.jpg",
+      "category": "institucionalni_partner"
+    },
+    {
+      "id": 19,
+      "status": "published",
+      "sort": 18,
+      "name": "ČKMA",
+      "url": "https://www.ckma.cz/cs/",
+      "logo": "/media/369b7898b27346f1eccc.png",
+      "category": "institucionalni_partner"
+    },
+    {
+      "id": 22,
+      "status": "published",
+      "sort": 20,
+      "name": "TUL",
+      "url": "https://www.tul.cz/",
+      "logo": "/media/98eec3a607636208543c.png",
+      "category": "institucionalni_partner"
+    },
+    {
+      "id": 25,
+      "status": "published",
+      "sort": 22,
+      "name": "Asociace AI",
+      "url": "https://asociace.ai/",
+      "logo": "/media/fe8f4d42a3193c195ed0.jpg",
+      "category": "institucionalni_partner"
+    },
+    {
+      "id": 26,
+      "status": "published",
+      "sort": 23,
+      "name": "Littlebit",
+      "url": "https://www.littlebitapp.com/",
+      "logo": "/media/9012521d31c848c51642.png",
+      "category": "youtube_partner"
+    },
+    {
+      "id": 35,
+      "status": "published",
+      "sort": 26,
+      "name": "Newstream",
+      "url": "https://www.newstream.cz/",
+      "logo": "/media/56fd56e969b26902289a.jpg",
+      "category": "medialni_partner"
+    },
+    {
+      "id": 31,
+      "status": "published",
+      "sort": 27,
+      "name": "Cryptoproducts",
+      "url": "https://www.cryptoproducts.cz/",
+      "logo": "/media/4e832e839a0ad65081c5.webp",
+      "category": "fan_partner"
+    },
+    {
+      "id": 23,
+      "status": "published",
+      "sort": 28,
+      "name": "Měšec",
+      "url": "https://www.mesec.cz/",
+      "logo": "/media/5418bfc09396cffda36c.png",
+      "category": "medialni_partner"
+    },
+    {
+      "id": 32,
+      "status": "published",
+      "sort": 31,
+      "name": "Liberation Travel",
+      "url": "https://liberation.travel/",
+      "logo": "/media/b78a416a82b683b0ab36.png",
+      "category": "prima_partner"
+    },
+    {
+      "id": 33,
+      "status": "published",
+      "sort": 32,
+      "name": "CMA",
+      "url": "https://www.cma.cz/",
+      "logo": "/media/4fe01981a92ee8963c8d.jpg",
+      "category": "institucionalni_partner"
+    },
+    {
+      "id": 36,
+      "status": "published",
+      "sort": 34,
+      "name": "Invity",
+      "url": "https://invity.io/",
+      "logo": "/media/359b63a79d6e5b4eb32c.png",
+      "category": "skvely_partner"
+    },
+    {
+      "id": 37,
+      "status": "published",
+      "sort": 35,
+      "name": "General Bytes",
+      "url": "https://www.generalbytes.com/en/",
+      "logo": "/media/67cd7c006e285cd7696c.jpg",
+      "category": "the_best_partner"
+    },
+    {
+      "id": 38,
+      "status": "published",
+      "sort": 36,
+      "name": "Bitcoin By Satoshi",
+      "url": "https://www.bitcoinbysatoshi.cz/",
+      "logo": "/media/bb8b3acc6d441a7f7b20.jpg",
+      "category": "fan_partner"
+    },
+    {
+      "id": 43,
+      "status": "published",
+      "sort": null,
+      "name": "Deloitte",
+      "url": "https://www.deloitte.com/cz-sk/cs.html?icid=site_selector_cz-sk",
+      "logo": "/media/d5ed482a83d82ea1a19b.png",
+      "category": "fan_partner"
+    },
+    {
+      "id": 42,
+      "status": "published",
+      "sort": null,
+      "name": "vexl",
+      "url": "https://vexl.it/",
+      "logo": "/media/e9a48f97fde642144bfb.svg",
+      "category": "fan_partner"
+    },
+    {
+      "id": 39,
+      "status": "published",
+      "sort": null,
+      "name": "Braiins",
+      "url": "https://braiins.com/",
+      "logo": "/media/6bed170be47a6487b13c.svg",
+      "category": "fan_partner"
+    },
+    {
+      "id": 41,
+      "status": "published",
+      "sort": null,
+      "name": "Ako ťažit kryptomeny",
+      "url": "https://ako-tazit-kryptomeny.sk/",
+      "logo": "/media/6d38e78ed386c23970ea.svg",
+      "category": "prima_partner"
+    },
+    {
+      "id": 40,
+      "status": "published",
+      "sort": null,
+      "name": "Zcash",
+      "url": "https://z.cash/",
+      "logo": "/media/82c1b56d396d01cb6f4c.svg",
+      "category": "super_partner"
+    }
+  ],
+  "supporters": [
+    {
+      "id": 59,
+      "sort": null,
+      "name": "Albert Kokoska",
+      "important": true
+    },
+    {
+      "id": 46,
+      "sort": 1,
+      "name": "David Lang",
+      "important": false
+    },
+    {
+      "id": 47,
+      "sort": 2,
+      "name": "Rosťa Plachý",
+      "important": false
+    },
+    {
+      "id": 48,
+      "sort": 3,
+      "name": "Jednadvacet Kyjov",
+      "important": false
+    },
+    {
+      "id": 49,
+      "sort": 4,
+      "name": "Jan Vobecký",
+      "important": false
+    },
+    {
+      "id": 50,
+      "sort": 5,
+      "name": "Radek Císař",
+      "important": false
+    },
+    {
+      "id": 54,
+      "sort": 6,
+      "name": "Erik Císař",
+      "important": false
+    },
+    {
+      "id": 51,
+      "sort": 7,
+      "name": "Jan Kamlach",
+      "important": false
+    },
+    {
+      "id": 52,
+      "sort": 8,
+      "name": "Adam Jareš",
+      "important": false
+    },
+    {
+      "id": 53,
+      "sort": 9,
+      "name": "Kateřina Kloudová",
+      "important": false
+    },
+    {
+      "id": 65,
+      "sort": null,
+      "name": "Dominik Hais",
+      "important": false
+    },
+    {
+      "id": 55,
+      "sort": null,
+      "name": "Vladimír Havránek",
+      "important": false
+    },
+    {
+      "id": 56,
+      "sort": null,
+      "name": "Jakub Houfek",
+      "important": false
+    },
+    {
+      "id": 57,
+      "sort": null,
+      "name": "Petr Šolc",
+      "important": false
+    },
+    {
+      "id": 58,
+      "sort": null,
+      "name": "Robert Fedorčák",
+      "important": false
+    },
+    {
+      "id": 60,
+      "sort": null,
+      "name": "Tomáš Brigan",
+      "important": false
+    },
+    {
+      "id": 61,
+      "sort": null,
+      "name": "Jaromír Hokr",
+      "important": false
+    },
+    {
+      "id": 62,
+      "sort": null,
+      "name": "Aneta Říhová",
+      "important": false
+    },
+    {
+      "id": 63,
+      "sort": null,
+      "name": "David Ulman",
+      "important": false
+    },
+    {
+      "id": 64,
+      "sort": null,
+      "name": "Tomáš Jonáček",
+      "important": false
+    }
+  ],
+  "faq": [
+    {
+      "id": 4,
+      "sort": 1,
+      "question": "Pro koho je konference vhodná?",
+      "answer": "Akce je určena pro všechny, kdo se chtějí seznámit s kryptoměnami, i pro zkušené nadšence. Každý si zde přijde na své – od úplně základních informací o bitcoinu a službách až po možnost testování při placení bitcoinem za jídlo a pití. Setkat se tu můžete s lidmi se stejnými zájmy z bitcoinové komunity.\nNováčkům se vším podstatným poradí dobrovolníci na bitcoinovém komunitním stánku volného sdružení [Jednadvacet](https://jednadvacet.org/). Ostatně na jejich [stránkách](https://jednadvacet.org/) můžete začít již po zakoupeníí vstupenky z tepla vašeho domova."
+    },
+    {
+      "id": 13,
+      "sort": 2,
+      "question": "Kde se CryptoByte koná?",
+      "answer": "Budova G, Technické univerzity v Liberci\nUniverzitní nám. 1410\n460 01 Liberec - Staré Město\n- [GoogleMaps](https://maps.app.goo.gl/PjwJ9zFou1DNaBmF6)\n- [Mapy.cz](https://mapy.cz/s/caholudago)\n\n"
+    },
+    {
+      "id": 3,
+      "sort": 3,
+      "question": "Jak se dostanu na místo konference?",
+      "answer": "**MHD:**\nZ terminálu MHD Fügnerova busem č. [15](https://www.dpmlj.cz/files/dev/113/13006/A/Linka_15_Smer_Lukasovske_udoli_Zastavka_1_Fugnerova_91.pdf) a [19](https://www.dpmlj.cz/files/dev/117/13010/A/Linka_19_Smer_Skola_Katerinky_Zastavka_1_Fugnerova_91.pdf). Vystoupíte na zastávce Technická univerzita, přejdete na protější chodník a k budově G vám stačí vyjít jedny schody u zastávky.\nPokud přijedete do Liberce vlakem nebo autobusem, můžete nastoupit na tramvaj, linku č. 3 (dopolední sobotní intervaly jsou 9 – 15 minut). Pak se nabízejí dvě možnosti:\n1) vystoupit na terminálu MHD Fügnerova a pokračovat busem č. 15 nebo 19;\n2) pokračovat tramvají až na zastávku Botanická zahrada a jít cca 5 minut pěšky. Správnou cestu lesíkem vám ukážou Mapy.cz i GoogleMaps.\n\n**Autem:**\nPrimárně doporučujeme využít MHD. Pokud plánujete zůstat v Liberci do druhého dne (třeba kvůli afterparty), tak parkujte v klidu u jednoho z doporučených (cenově dostupných) ubytování a projděte se cca 12 – 15 minut k budově G. Lenivější z vás, ať hledají parkování na přilehlé třídě Husova.\n\n\n"
+    },
+    {
+      "id": 9,
+      "sort": 4,
+      "question": "Lze v místě konference parkovat?",
+      "answer": "Primárně doporučujeme využít MHD. Pokud plánujete zůstat v Liberci do druhého dne (třeba kvůli afterparty), tak parkujte v klidu u jednoho z doporučených (cenově dostupných) ubytování (viz. tyto FAQ) a projděte se cca 12 – 15 minut k budově G. Ostatní ať hledají parkování na přilehlé třídě Husova."
+    },
+    {
+      "id": 8,
+      "sort": 5,
+      "question": "Kde se lze v Liberci ubytovat?",
+      "answer": "Pár tipů na ubytování vám dát můžeme :-)\n\n**Cenově dostupné a v blízkosti:**\n- [Nedaleké univerzitní koleje](https://letniubytovani.tul.cz/)\n- V podobné vzdálenosti [Interhostel](http://interhostel.cz/) a [hotel Fabrica](https://www.fabrica-liberec.cz/index.php/hotel/o-hotelu)\n- [Hotel U jezírka](https://www.hotelujezirka.cz/) - pěšky kousek\n\n**Pro náročnější:**\n- [Liberecká výšina](https://www.libereckavysina.com/hotel/)\n- Restaurace a pension [Bílý mlýn](https://bily-mlyn.com/ubytovani)\n- [Hotel Praha](https://www.hotelprahaliberec.cz/)\n- Apartmány [Golden Key](https://www.goldenkeyapartments.cz/cs/)\n- [Hotel Liberec](https://hotel-liberec.eu/)"
+    },
+    {
+      "id": 5,
+      "sort": 6,
+      "question": "Mohou na CryptoByte děti?",
+      "answer": "Děti mají na konferenci vstup povolen v doprovodu dospělé osoby. Maximálně dvě děti s jedním dospělým. Vstup mají zdarma děti, které splní alespoň jednu z těchto podmínek:\n- výška do 140 cm\n- věk do 10 let\n\nVýšku lze ověřit snadno na místě. Pro prokázání věku je třeba doložit nějaký doklad dítěte s vyznačeným datem narození.\n\nPokud dítě nesplní ani jednu z podmínek, musí mít vstupenku stejnou jako dospělý."
+    },
+    {
+      "id": 11,
+      "sort": 7,
+      "question": "Mohou na CryptoByte psi?",
+      "answer": "Na konferenci není vstup psům ani jiné zvěři povolen. Jedinou výjimku ma Kirill Juran. Přesněji jeho pes.\nVýslovně pak je zakázán vstup medvědům!"
+    },
+    {
+      "id": 6,
+      "sort": 8,
+      "question": "Kde se bude konat afterparty?",
+      "answer": "Po dvou letech se afterparty vrací do [BG klubu](https://bg-klub.eu/#bistro), kde je pro účastníky připraven (od 19 do 23 hod) k vyzkoušení golfový simulátor a kolem 20 hodiny i překvapení pro znalce bitcoinerské scény. Máte se na co těšit!\nNa místě se budete moci i najíst. V menu najdete jídla s hovězím, vepřovým a kuřecím masem a také vege jídlo. Čepuje se Plzeň a za vše lze zaplatit LN BTC z vaší mobilní peněženky. Je připravená živá a reprodukovaná hudba.\nVzdálenost je cca 12 minut pěšky z místa konání konference."
+    },
+    {
+      "id": 10,
+      "sort": 9,
+      "question": "Mohu zakoupenou vstupenku dát / prodat někomu jinému?",
+      "answer": "Ano. Vstupenkou je zaslaný QR kód a ten můžete někomu dát/prodat.\nPozor ale na dvě věci:\n1) Vpuštěn na konferenci bude ten, kdo QR kód předloží jako první. Tím se kód zneplatní pro další použití.\n2) Vzhledem k obchodním podmínkám byste správně měli nahlásit jméno a příjmení osoby, která vstupenku (uplatní). Stačí stručně na info@cryptobyte.cz\n\n*Současně tato osoba souhlasí automaticky s obchodními podmínkami a úpravou týkající se GDPR na této konferenci.*"
+    },
+    {
+      "id": 12,
+      "sort": 10,
+      "question": "Objednal jsem si vstupenku s platbou bankovním převodem a nic se neděje. Co mám dělat?",
+      "answer": "Ihned po odeslání vaši objednavky byste měli na vámi zadanou e-mailovou adresu obdržet instrukce k platbě. Pokud vám nic nedorazilo, tak:\n1) Prověřte složku s nevyžádanou poštou (SPAM), zda e-mail od nás neskončil právě tam.\n2) Pokud jste platební instrukce nenašli ve spamu, tak nám napište na info@cryptobyte.cz a dořešíme to společně."
+    },
+    {
+      "id": 7,
+      "sort": 11,
+      "question": "Co dalšího zajímavého mohu v Liberci vidět?",
+      "answer": "Liberec je skvělé město a je určitě kam vyrazit, ať už přijedete na CryptoByte již v pátek nebo si prodloužíte pobyt až do konce víkendu.\n\nTady pár zajímavých tipů, co vidět v Liberci:\n\n- [IQLANDIA](https://iqlandia.cz/) - moderní vědecko-zábavní centrum\n- [Rodný dům Ferdinanda Porscheho](https://museum.skoda-auto.cz/expozice-porsche-house)\n- [Liberecká výšina](https://www.libereckavysina.com/)\n- [Oblastní galerie](https://www.ogl.cz/) Liberec\n- [Severočeké muzeum](https://www.muzeumlb.cz/)\n- [Botanická zahrada](https://www.botanickaliberec.cz/)\n- [Zoologická zahrada](https://zooliberec.cz/)\n\n"
+    },
+    {
+      "id": 14,
+      "sort": null,
+      "question": "Potřebuji poradit. / Chci spolupracovat s CryptoByte.",
+      "answer": "Pokud si s něčím nevíte rady nebo byste rádi navázali spolupráci s CryptoByte, tak nás neváhejte kontaktovat na e-mailové adrese **info@cryptobyte.cz** nebo nám napište na X - **@CByte_Lbc**."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 2,
+      "status": "published",
+      "sort": null,
+      "name": "Juraj Bednár",
+      "position": "Autor knih / seriový podnikatel",
+      "img": "/media/51b9c517f39b7987a513.webp",
+      "text": "CryptoByte je super stretnutie nadšencov kryptomien a decentralizovaných technológií, ale konferencia je otvorená aj iným novým myšlienkam. V roku 2025 som mal dokonca workshop o prepojení s umelou inteligenciou. V spojení s pozitívnou energiou organizátora Dušana a atmosférou mesta Liberec je to dokonalá kombinácia - nečakajte davy ľudí, ale príjemné diskusie, ktoré vás obohatia každý rok o nové podnety."
+    },
+    {
+      "id": 4,
+      "status": "published",
+      "sort": null,
+      "name": "Lukáš Kovanda",
+      "position": "Hlavní ekonom Trinity Bank",
+      "img": "/media/9b2f6b8efe04e3aa854d.webp",
+      "text": "Liberecké konference CryptoByte se rychle zařadily mezi nejdůležitější české krypto-akce roku. Právem. Vždy perfektně zorganizované i zpropagované, se zřetelným Dušanovým autorským otiskem, otevírají jedinečný prostor pro formální i neformální debatu celé krypto-komunity. "
+    },
+    {
+      "id": 3,
+      "status": "published",
+      "sort": null,
+      "name": "Jakub Kicom Vejmola",
+      "position": "Youtuber a CMO českého Bitcoinu",
+      "img": "/media/205ce17950f465cbe44d.webp",
+      "text": "Skvělá akce, na které na vás dýchne skoro až “rodinná” atmosféra. Přednášky, worshopy, diskuse v krásných, moderních prostorách Technické univerzity a jako bonus všechno v krásné lokalitě malebného Liberce."
+    },
+    {
+      "id": 5,
+      "status": "published",
+      "sort": null,
+      "name": "Alex Pilař",
+      "position": "Angel Investor, Co-founder, and Chair of the Board at Inowatti",
+      "img": "/media/88dbb9de1c79052ca76a.webp",
+      "text": "Cryptobyte v Liberci patří k místům, kam se vždy rád vracím. Nenápadně zde vyrostl skvělý bitcoinový event, který dnes patří mezi nejrespektovanější bitcoinové akce v Česku."
+    },
+    {
+      "id": 6,
+      "status": "published",
+      "sort": null,
+      "name": "Kirill Juran",
+      "position": "CEO SMPL_",
+      "img": "/media/98d6f1ccf46dfca0f50f.webp",
+      "text": "Na CryptoByte jezdím už od jeho založení. Je to hezká akce se super atmosférou a navíc pro tak akorát velké množství lidí. Dušan je srdcař a na akci je to vidět."
+    },
+    {
+      "id": 1,
+      "status": "published",
+      "sort": null,
+      "name": "Pavol Lupták",
+      "position": "Globální oportunista, etický hacker a digitální nomád",
+      "img": "/media/2edbed572cf021c8dbdb.webp",
+      "text": "CryptoByte - najpriateľskejšia krypto konferencia v najkrajšom českom meste."
+    }
+  ],
+  "blog/posts": {
+    "data": [
+      {
+        "date_published": "2026-05-13T12:00:00",
+        "title": "Víte, že General Bytes mají tisíce Bitcoin ATM po celém světě?",
+        "featured_image": "/media/a895c1313c60a7f44544.jpg",
+        "perex": "Jeden z největších výrobců a provozovatelů bitcoinové ATM infrastruktury na světě partnerem konference.",
+        "slug": "general-bytes"
+      },
+      {
+        "date_published": "2026-05-06T12:00:00",
+        "title": "Víte, co je to Turbo nákup?",
+        "featured_image": "/media/167343c12b8590f58abd.jpg",
+        "perex": "Skvělý partner Invity představuje Turbo nákup, Auto Nákup Plus a další funcionality",
+        "slug": "invity"
+      },
+      {
+        "date_published": "2026-04-24T12:00:00",
+        "title": "Víte, že letos budeme mít skutečně zahraničního speakera?",
+        "featured_image": "/media/94cbad457e1b59d86f46.jpg",
+        "perex": "Frank Braun z Německa představí Zcash ve své přednášce v Liberci.",
+        "slug": "zcash"
+      },
+      {
+        "date_published": "2026-04-23T12:00:00",
+        "title": "The first truly international speaker at CryptoByte!",
+        "featured_image": "/media/c8541d95842e0aaabcd7.jpg",
+        "perex": "Have you heard about the anonymous cryptocurrency Zcash?",
+        "slug": "frank-braun"
+      },
+      {
+        "date_published": "2026-04-22T12:00:00",
+        "title": "Víte, že můžete těžit s Ako ťažiť kryptomeny?",
+        "featured_image": "/media/f33fd24fe966c563441a.jpg",
+        "perex": "Opravdu lze těžbou dosáhnout nižší nákupní ceny BTC?",
+        "slug": "ako-tazit-kryptomeny"
+      },
+      {
+        "date_published": "2026-04-11T12:00:00",
+        "title": "Víte, že Coinero je Fan partnerem konference?",
+        "featured_image": "/media/609c4e771551d3531326.jpg",
+        "perex": "Coinero jste asi znali jako Coinbank",
+        "slug": "coinero"
+      },
+      {
+        "date_published": "2026-04-07T12:00:00",
+        "title": "Víte, že Liberation Travel jsou partnery konference?",
+        "featured_image": "/media/caae0efeb263db042dcc.jpg",
+        "perex": "Travel hackeři, krypto nadšenci a podnikatelé, kteří žijí přesně tak, jak radí!",
+        "slug": "liberation-travel"
+      },
+      {
+        "date_published": "2026-04-02T10:27:00",
+        "title": "Víte, že budeme křtít knihy?",
+        "featured_image": "/media/c4c8fbd3b8bad8e307d8.jpg",
+        "perex": "Na CryptoByte 2026 proběhne křest unikátní knihy od Juraje Bednára",
+        "slug": "krotitele-entropie"
+      },
+      {
+        "date_published": "2026-04-01T12:00:00",
+        "title": "Víte, že Galosoft jsou těžaři i SW vývojáři?",
+        "featured_image": "/media/7065a2c726d4154f2d84.jpg",
+        "perex": "Partnerem konference ja společnost Galosoft a její CEO se představí také jako jeden z přednášejích",
+        "slug": "galosoft"
+      },
+      {
+        "date_published": "2026-03-20T12:00:00",
+        "title": "Víte, že Anycoin bude na konferenci?",
+        "featured_image": "/media/d43b45fef245e0328ae1.jpg",
+        "perex": "Kryptoměnová směnárna Anycoin Prima partnerem CryptoByte 2026",
+        "slug": "anycoin-partner"
+      },
+      {
+        "date_published": "2026-03-19T12:00:00",
+        "title": "Víte, že budeme křtít knihy?",
+        "featured_image": "/media/2d71a3bf9986674037e1.jpg",
+        "perex": "Na CryptoByte 2026 proběhnou i křesty dvou knih. První z nich je Matematika Bitcoinu.",
+        "slug": "matematika-bitcoinu"
+      },
+      {
+        "date_published": "2026-03-16T12:00:00",
+        "title": "Víte, že můžete \"štosovat saty\" efektivně?",
+        "featured_image": "/media/98e12e63f23d030f9615.jpg",
+        "perex": "S Fan partnerem Štosuj.cz to jde snadno.",
+        "slug": "stosuj-saty"
+      },
+      {
+        "date_published": "2026-03-13T12:00:00",
+        "title": "Víte, že bude i afterparty? 🤩",
+        "featured_image": "/media/7bb84db0c7c4777858cf.jpg",
+        "perex": "Pořádná afterparty a Bitcoinmat.sk!",
+        "slug": "bitcoinmat"
+      },
+      {
+        "date_published": "2026-03-12T12:00:00",
+        "title": "Víte, že na CryptoByte 2026 bude největší, nejrychlejší a nejvýkonnější BMW!?!?!? ",
+        "featured_image": "/media/e902414080749e7944f6.jpg",
+        "perex": "Na účastníky konference čeká královské BMW!\n",
+        "slug": "bmw"
+      },
+      {
+        "date_published": "2026-03-05T12:00:00",
+        "title": "Víte, že mediálním partnerem ...",
+        "featured_image": "/media/fec945afe1aacb50cb8a.jpg",
+        "perex": "konference je Newstream.cz?",
+        "slug": "newstream"
+      },
+      {
+        "date_published": "2026-03-01T08:00:00",
+        "title": "Víte, že se můžete stát milionářem?",
+        "featured_image": "/media/f444f0b2d081f03aaa0b.jpg",
+        "perex": "Stát se milionářem na jeden den není zas tak drahé.",
+        "slug": "millionaire-pass"
+      },
+      {
+        "date_published": "2026-02-28T12:00:00",
+        "title": "Víte, že můžete vyhrát?",
+        "featured_image": "/media/de24b72df81fb8ff88e7.jpg",
+        "perex": "Kupte si běžnou vstupenku a vyhrajte nevšední zážitek. ",
+        "slug": "slosovani"
+      },
+      {
+        "date_published": "2026-02-19T12:00:00",
+        "title": "Víte, že mediálním partnerem ...",
+        "featured_image": "/media/4a1b3732cd08ade241c4.jpg",
+        "perex": "konference je Měšec.cz?",
+        "slug": "mesec"
+      },
+      {
+        "date_published": "2026-02-17T12:00:00",
+        "title": "Víte, že můžete být šik!",
+        "featured_image": "/media/19aedd995509451245b2.jpg",
+        "perex": "Tričko ku příležitosti 5. ročníku konference - limitovaná edice a časově omezená nabídka",
+        "slug": "triko"
+      },
+      {
+        "date_published": "2026-02-12T12:00:00",
+        "title": "12. únor - Darwinův den",
+        "featured_image": "/media/7a779e44895b0e765351.jpg",
+        "perex": "- Víte, že …\n12. února je tzv. Darwinův den, který připomíná, že evoluce je základní mechanismus změny a pokroku?",
+        "slug": "darwinuv-den"
+      },
+      {
+        "date_published": "2026-01-14T10:00:00",
+        "title": "Víte, že se můžete i proletět?",
+        "featured_image": "/media/f1a3d5ae01933defdec7.jpg",
+        "perex": "Vstupenka Boarding Pass - cesta do nebe",
+        "slug": "boarding-pass"
+      },
+      {
+        "date_published": "2026-01-09T12:00:00",
+        "title": "Víte, že pořadatel konference CryptoByte je také publicistou?",
+        "featured_image": "/media/4786f409ac6724e918e2.jpg",
+        "perex": "Pořadatel konference, Dušan Kmetyo, spolupracuje s nezávislým zpravodajským webem Newstream.cz",
+        "slug": "dusan-kmetyo-clanek"
+      },
+      {
+        "date_published": "2025-12-28T12:00:00",
+        "title": "Víte, že ke vstupence si můžete přihodit i knihu?",
+        "featured_image": "/media/9337f79b72ed4450cf0e.jpg",
+        "perex": "**Jedinečná příležitost k nákupu knihy za symbolickou cenu**",
+        "slug": "ke-vstupence-kniha"
+      }
+    ]
+  },
+  "talk-favorites/dashboard": {
+    "generatedAt": "2026-09-22T18:23:52.697Z",
+    "totalFavorites": 2305,
+    "uniqueBrowsers": 277,
+    "talks": [
+      {
+        "talkId": 57,
+        "count": 89,
+        "firstFavoritedAt": "2026-04-27T09:24:47.717Z",
+        "lastFavoritedAt": "2026-05-16T12:49:18.644Z"
+      },
+      {
+        "talkId": 68,
+        "count": 83,
+        "firstFavoritedAt": "2026-04-27T09:22:49.719Z",
+        "lastFavoritedAt": "2026-05-16T10:14:50.327Z"
+      },
+      {
+        "talkId": 74,
+        "count": 82,
+        "firstFavoritedAt": "2026-04-27T09:22:31.812Z",
+        "lastFavoritedAt": "2026-05-16T12:52:44.640Z"
+      },
+      {
+        "talkId": 58,
+        "count": 76,
+        "firstFavoritedAt": "2026-04-27T09:27:09.305Z",
+        "lastFavoritedAt": "2026-05-21T04:23:31.871Z"
+      },
+      {
+        "talkId": 67,
+        "count": 75,
+        "firstFavoritedAt": "2026-04-27T14:07:47.164Z",
+        "lastFavoritedAt": "2026-05-21T04:23:31.871Z"
+      },
+      {
+        "talkId": 69,
+        "count": 74,
+        "firstFavoritedAt": "2026-04-27T09:22:41.976Z",
+        "lastFavoritedAt": "2026-05-16T12:49:18.644Z"
+      },
+      {
+        "talkId": 55,
+        "count": 70,
+        "firstFavoritedAt": "2026-04-27T09:26:45.599Z",
+        "lastFavoritedAt": "2026-05-16T13:33:12.490Z"
+      },
+      {
+        "talkId": 82,
+        "count": 66,
+        "firstFavoritedAt": "2026-04-27T09:23:36.669Z",
+        "lastFavoritedAt": "2026-05-16T10:14:55.851Z"
+      },
+      {
+        "talkId": 84,
+        "count": 61,
+        "firstFavoritedAt": "2026-04-27T14:06:21.858Z",
+        "lastFavoritedAt": "2026-05-16T12:11:59.107Z"
+      },
+      {
+        "talkId": 14,
+        "count": 59,
+        "firstFavoritedAt": "2026-04-27T15:51:45.746Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 7,
+        "count": 58,
+        "firstFavoritedAt": "2026-04-27T15:51:45.746Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 10,
+        "count": 55,
+        "firstFavoritedAt": "2026-04-27T15:51:45.746Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 72,
+        "count": 51,
+        "firstFavoritedAt": "2026-04-27T14:08:30.922Z",
+        "lastFavoritedAt": "2026-05-16T12:52:13.855Z"
+      },
+      {
+        "talkId": 3,
+        "count": 46,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 81,
+        "count": 46,
+        "firstFavoritedAt": "2026-04-27T17:06:53.468Z",
+        "lastFavoritedAt": "2026-05-21T15:02:01.658Z"
+      },
+      {
+        "talkId": 70,
+        "count": 45,
+        "firstFavoritedAt": "2026-05-03T12:14:50.455Z",
+        "lastFavoritedAt": "2026-05-16T12:25:05.803Z"
+      },
+      {
+        "talkId": 71,
+        "count": 45,
+        "firstFavoritedAt": "2026-04-27T17:44:09.631Z",
+        "lastFavoritedAt": "2026-05-16T10:15:27.955Z"
+      },
+      {
+        "talkId": 8,
+        "count": 42,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 62,
+        "count": 37,
+        "firstFavoritedAt": "2026-04-27T09:26:20.034Z",
+        "lastFavoritedAt": "2026-05-21T04:23:31.871Z"
+      },
+      {
+        "talkId": 87,
+        "count": 37,
+        "firstFavoritedAt": "2026-04-27T17:27:47.331Z",
+        "lastFavoritedAt": "2026-05-16T11:00:07.795Z"
+      },
+      {
+        "talkId": 98,
+        "count": 37,
+        "firstFavoritedAt": "2026-04-27T17:43:14.518Z",
+        "lastFavoritedAt": "2026-05-16T09:52:13.685Z"
+      },
+      {
+        "talkId": 54,
+        "count": 36,
+        "firstFavoritedAt": "2026-04-27T17:09:27.750Z",
+        "lastFavoritedAt": "2026-05-16T15:24:58.865Z"
+      },
+      {
+        "talkId": 9,
+        "count": 35,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-05-20T08:21:20.962Z"
+      },
+      {
+        "talkId": 64,
+        "count": 35,
+        "firstFavoritedAt": "2026-05-02T06:43:56.488Z",
+        "lastFavoritedAt": "2026-05-16T09:43:02.692Z"
+      },
+      {
+        "talkId": 73,
+        "count": 35,
+        "firstFavoritedAt": "2026-04-27T09:24:55.691Z",
+        "lastFavoritedAt": "2026-05-16T12:52:21.272Z"
+      },
+      {
+        "talkId": 47,
+        "count": 33,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-05-20T08:21:20.962Z"
+      },
+      {
+        "talkId": 78,
+        "count": 33,
+        "firstFavoritedAt": "2026-04-27T17:09:57.850Z",
+        "lastFavoritedAt": "2026-05-16T14:13:38.952Z"
+      },
+      {
+        "talkId": 56,
+        "count": 32,
+        "firstFavoritedAt": "2026-04-27T19:34:11.080Z",
+        "lastFavoritedAt": "2026-05-16T06:48:50.662Z"
+      },
+      {
+        "talkId": 76,
+        "count": 30,
+        "firstFavoritedAt": "2026-04-27T14:05:40.755Z",
+        "lastFavoritedAt": "2026-05-21T15:01:02.318Z"
+      },
+      {
+        "talkId": 6,
+        "count": 29,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-05-20T08:21:20.962Z"
+      },
+      {
+        "talkId": 20,
+        "count": 28,
+        "firstFavoritedAt": "2026-04-27T10:58:14.815Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 77,
+        "count": 28,
+        "firstFavoritedAt": "2026-04-27T09:24:31.153Z",
+        "lastFavoritedAt": "2026-05-21T15:01:28.880Z"
+      },
+      {
+        "talkId": 5,
+        "count": 27,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 34,
+        "count": 26,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-05-20T08:21:20.962Z"
+      },
+      {
+        "talkId": 86,
+        "count": 26,
+        "firstFavoritedAt": "2026-04-27T17:42:40.385Z",
+        "lastFavoritedAt": "2026-05-21T15:00:55.432Z"
+      },
+      {
+        "talkId": 19,
+        "count": 25,
+        "firstFavoritedAt": "2026-04-27T20:18:34.351Z",
+        "lastFavoritedAt": "2026-06-05T06:27:50.920Z"
+      },
+      {
+        "talkId": 89,
+        "count": 25,
+        "firstFavoritedAt": "2026-04-27T09:25:17.697Z",
+        "lastFavoritedAt": "2026-05-16T09:22:05.568Z"
+      },
+      {
+        "talkId": 22,
+        "count": 24,
+        "firstFavoritedAt": "2026-04-27T17:31:43.287Z",
+        "lastFavoritedAt": "2026-05-24T18:22:29.526Z"
+      },
+      {
+        "talkId": 79,
+        "count": 24,
+        "firstFavoritedAt": "2026-04-27T14:03:51.796Z",
+        "lastFavoritedAt": "2026-05-21T15:00:47.060Z"
+      },
+      {
+        "talkId": 4,
+        "count": 22,
+        "firstFavoritedAt": "2026-04-27T17:04:33.507Z",
+        "lastFavoritedAt": "2026-05-24T18:22:29.526Z"
+      },
+      {
+        "talkId": 80,
+        "count": 21,
+        "firstFavoritedAt": "2026-05-03T12:10:36.987Z",
+        "lastFavoritedAt": "2026-05-16T12:52:39.078Z"
+      },
+      {
+        "talkId": 101,
+        "count": 21,
+        "firstFavoritedAt": "2026-04-27T19:40:16.600Z",
+        "lastFavoritedAt": "2026-05-16T14:11:46.422Z"
+      },
+      {
+        "talkId": 17,
+        "count": 20,
+        "firstFavoritedAt": "2026-05-01T07:19:26.059Z",
+        "lastFavoritedAt": "2026-06-05T06:27:50.920Z"
+      },
+      {
+        "talkId": 33,
+        "count": 20,
+        "firstFavoritedAt": "2026-04-27T17:31:43.287Z",
+        "lastFavoritedAt": "2026-05-24T18:22:29.526Z"
+      },
+      {
+        "talkId": 91,
+        "count": 20,
+        "firstFavoritedAt": "2026-04-27T17:08:44.179Z",
+        "lastFavoritedAt": "2026-05-16T08:40:11.651Z"
+      },
+      {
+        "talkId": 30,
+        "count": 19,
+        "firstFavoritedAt": "2026-04-27T17:31:43.287Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 83,
+        "count": 18,
+        "firstFavoritedAt": "2026-04-27T14:07:51.545Z",
+        "lastFavoritedAt": "2026-05-16T12:47:20.714Z"
+      },
+      {
+        "talkId": 88,
+        "count": 18,
+        "firstFavoritedAt": "2026-05-08T13:18:55.019Z",
+        "lastFavoritedAt": "2026-05-16T13:15:52.108Z"
+      },
+      {
+        "talkId": 18,
+        "count": 17,
+        "firstFavoritedAt": "2026-04-27T17:31:43.287Z",
+        "lastFavoritedAt": "2026-06-05T06:27:50.920Z"
+      },
+      {
+        "talkId": 26,
+        "count": 17,
+        "firstFavoritedAt": "2026-04-27T17:04:33.507Z",
+        "lastFavoritedAt": "2026-06-05T06:27:50.920Z"
+      },
+      {
+        "talkId": 63,
+        "count": 17,
+        "firstFavoritedAt": "2026-04-27T19:34:38.548Z",
+        "lastFavoritedAt": "2026-05-16T10:14:46.822Z"
+      },
+      {
+        "talkId": 65,
+        "count": 17,
+        "firstFavoritedAt": "2026-04-27T14:04:39.125Z",
+        "lastFavoritedAt": "2026-05-16T08:00:17.956Z"
+      },
+      {
+        "talkId": 96,
+        "count": 17,
+        "firstFavoritedAt": "2026-04-27T19:35:48.163Z",
+        "lastFavoritedAt": "2026-05-16T10:32:28.677Z"
+      },
+      {
+        "talkId": 15,
+        "count": 15,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 16,
+        "count": 15,
+        "firstFavoritedAt": "2026-04-27T20:18:34.351Z",
+        "lastFavoritedAt": "2026-05-16T13:08:22.846Z"
+      },
+      {
+        "talkId": 32,
+        "count": 15,
+        "firstFavoritedAt": "2026-04-27T12:16:13.986Z",
+        "lastFavoritedAt": "2026-05-20T08:21:20.962Z"
+      },
+      {
+        "talkId": 45,
+        "count": 15,
+        "firstFavoritedAt": "2026-05-01T05:58:13.026Z",
+        "lastFavoritedAt": "2026-05-17T05:22:19.628Z"
+      },
+      {
+        "talkId": 95,
+        "count": 15,
+        "firstFavoritedAt": "2026-04-27T17:27:21.175Z",
+        "lastFavoritedAt": "2026-05-16T07:29:53.250Z"
+      },
+      {
+        "talkId": 12,
+        "count": 14,
+        "firstFavoritedAt": "2026-04-27T15:51:45.746Z",
+        "lastFavoritedAt": "2026-07-01T12:17:00.776Z"
+      },
+      {
+        "talkId": 35,
+        "count": 14,
+        "firstFavoritedAt": "2026-04-27T20:18:34.351Z",
+        "lastFavoritedAt": "2026-06-05T06:27:50.920Z"
+      },
+      {
+        "talkId": 59,
+        "count": 14,
+        "firstFavoritedAt": "2026-05-05T11:59:16.772Z",
+        "lastFavoritedAt": "2026-05-16T11:52:30.982Z"
+      },
+      {
+        "talkId": 60,
+        "count": 13,
+        "firstFavoritedAt": "2026-04-27T14:38:53.765Z",
+        "lastFavoritedAt": "2026-05-16T07:55:01.348Z"
+      },
+      {
+        "talkId": 97,
+        "count": 13,
+        "firstFavoritedAt": "2026-04-27T17:45:24.272Z",
+        "lastFavoritedAt": "2026-05-16T08:17:14.385Z"
+      },
+      {
+        "talkId": 11,
+        "count": 11,
+        "firstFavoritedAt": "2026-05-02T04:50:01.235Z",
+        "lastFavoritedAt": "2026-05-16T13:08:22.846Z"
+      },
+      {
+        "talkId": 37,
+        "count": 11,
+        "firstFavoritedAt": "2026-04-27T15:51:45.746Z",
+        "lastFavoritedAt": "2026-05-16T11:19:43.320Z"
+      },
+      {
+        "talkId": 41,
+        "count": 11,
+        "firstFavoritedAt": "2026-04-27T15:51:45.746Z",
+        "lastFavoritedAt": "2026-05-16T11:19:43.320Z"
+      },
+      {
+        "talkId": 51,
+        "count": 11,
+        "firstFavoritedAt": "2026-05-01T07:19:26.059Z",
+        "lastFavoritedAt": "2026-05-16T07:11:47.123Z"
+      },
+      {
+        "talkId": 21,
+        "count": 10,
+        "firstFavoritedAt": "2026-04-27T17:04:33.507Z",
+        "lastFavoritedAt": "2026-05-15T18:55:23.308Z"
+      },
+      {
+        "talkId": 46,
+        "count": 10,
+        "firstFavoritedAt": "2026-05-03T07:05:51.508Z",
+        "lastFavoritedAt": "2026-05-15T18:55:23.308Z"
+      },
+      {
+        "talkId": 31,
+        "count": 9,
+        "firstFavoritedAt": "2026-04-27T17:31:43.287Z",
+        "lastFavoritedAt": "2026-05-24T18:22:29.526Z"
+      },
+      {
+        "talkId": 36,
+        "count": 9,
+        "firstFavoritedAt": "2026-04-27T10:58:14.815Z",
+        "lastFavoritedAt": "2026-05-16T11:19:43.320Z"
+      },
+      {
+        "talkId": 85,
+        "count": 6,
+        "firstFavoritedAt": "2026-05-14T13:10:12.139Z",
+        "lastFavoritedAt": "2026-05-16T11:02:12.128Z"
+      },
+      {
+        "talkId": 23,
+        "count": 5,
+        "firstFavoritedAt": "2026-04-27T20:18:34.351Z",
+        "lastFavoritedAt": "2026-05-15T13:09:00.154Z"
+      },
+      {
+        "talkId": 48,
+        "count": 5,
+        "firstFavoritedAt": "2026-04-27T20:18:34.351Z",
+        "lastFavoritedAt": "2026-05-16T04:08:27.665Z"
+      },
+      {
+        "talkId": 52,
+        "count": 5,
+        "firstFavoritedAt": "2026-05-01T05:58:13.026Z",
+        "lastFavoritedAt": "2026-05-16T06:55:17.547Z"
+      },
+      {
+        "talkId": 25,
+        "count": 4,
+        "firstFavoritedAt": "2026-05-13T19:09:16.514Z",
+        "lastFavoritedAt": "2026-05-16T04:08:27.665Z"
+      },
+      {
+        "talkId": 93,
+        "count": 4,
+        "firstFavoritedAt": "2026-04-29T15:42:24.868Z",
+        "lastFavoritedAt": "2026-05-15T11:35:19.667Z"
+      },
+      {
+        "talkId": 24,
+        "count": 3,
+        "firstFavoritedAt": "2026-04-27T10:58:14.815Z",
+        "lastFavoritedAt": "2026-05-03T15:08:02.266Z"
+      },
+      {
+        "talkId": 27,
+        "count": 3,
+        "firstFavoritedAt": "2026-05-03T12:04:06.230Z",
+        "lastFavoritedAt": "2026-05-16T13:08:22.846Z"
+      },
+      {
+        "talkId": 29,
+        "count": 3,
+        "firstFavoritedAt": "2026-05-01T07:19:26.059Z",
+        "lastFavoritedAt": "2026-05-05T16:03:13.634Z"
+      },
+      {
+        "talkId": 44,
+        "count": 3,
+        "firstFavoritedAt": "2026-05-15T12:23:11.498Z",
+        "lastFavoritedAt": "2026-05-16T19:19:16.382Z"
+      },
+      {
+        "talkId": 49,
+        "count": 3,
+        "firstFavoritedAt": "2026-04-27T10:58:14.815Z",
+        "lastFavoritedAt": "2026-05-03T15:08:02.266Z"
+      },
+      {
+        "talkId": 66,
+        "count": 3,
+        "firstFavoritedAt": "2026-04-27T17:47:51.448Z",
+        "lastFavoritedAt": "2026-05-10T15:46:15.102Z"
+      },
+      {
+        "talkId": 90,
+        "count": 3,
+        "firstFavoritedAt": "2026-04-29T15:42:22.490Z",
+        "lastFavoritedAt": "2026-05-15T20:52:11.495Z"
+      },
+      {
+        "talkId": 28,
+        "count": 1,
+        "firstFavoritedAt": "2026-04-27T10:58:14.815Z",
+        "lastFavoritedAt": "2026-04-27T10:58:14.815Z"
+      }
+    ]
+  },
+  "blog/post/general-bytes": {
+    "date_published": "2026-05-13T12:00:00",
+    "title": "Víte, že General Bytes mají tisíce Bitcoin ATM po celém světě?",
+    "featured_image": "/media/a895c1313c60a7f44544.jpg",
+    "perex": "Jeden z největších výrobců a provozovatelů bitcoinové ATM infrastruktury na světě partnerem konference.",
+    "text": "GENERAL BYTES je česká technologická společnost založená v roce 2013 v Praze, která se vypracovala na pozici jednoho z největších výrobců a provozovatelů bitcoinové ATM infrastruktury na světě. Její síť čítá tisíce Bitcoin ATM po celém světě a umožňuje lidem nakupovat i prodávat kryptoměny rychle, jednoduše a bezpečně – přímo v hotovosti.\n\nSrdcem ekosystému GENERAL BYTES je softwarová platforma CAS (Crypto Application Server), která provozovatelům ATM nabízí plnou kontrolu nad jejich sítí – od správy kurzů a limitů přes reporting až po integraci s burzami a platebními branami. Platforma je navržena s důrazem na bezpečnost, flexibilitu a škálovatelnost, a to jak pro malé operátory, tak pro velké finanční instituce 🔧\n\nPro firmy a účetní, kteří potřebují mít přehled o krypto transakcích, vyvinul GENERAL BYTES také nástroj WhaleBooks: specializovaný účetní software pro správu a reporting kryptoměnových operací, který zjednodušuje compliance a daňové povinnosti spojené s digitálními aktivy 📊\n\nGENERAL BYTES tak propojuje fyzický a digitální svět kryptoměn – od bankomatů na ulici až po software, který pohání celý backend. Jsme rádi, že můžeme GENERAL BYTES přivítat mezi partnery CryptoByte 2026 a těšíme se na spolupráci při rozvoji české i světové kryptoscény.\n\n\n👨‍🏫**[Program](https://cryptobyte.cz/program)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n",
+    "slug": "general-bytes"
+  },
+  "blog/post/invity": {
+    "date_published": "2026-05-06T12:00:00",
+    "title": "Víte, co je to Turbo nákup?",
+    "featured_image": "/media/167343c12b8590f58abd.jpg",
+    "perex": "Skvělý partner Invity představuje Turbo nákup, Auto Nákup Plus a další funcionality",
+    "text": "Invity: Česká Bitcoinová Aplikace pro každého\n[Invity](https://invity.io/) je česká bitcoinová aplikace, která usnadňuje nákup kryptoměn i pro úplné začátečníky. Vznikla jako mladší sestra hardwarové peněženky Trezor a nabízí širokou škálu funkcí pro všechny uživatele. Mezi hlavní výhody patří možnost automatického nákupu prostřednictvím funkcí jako je Auto Nákup Plus, která umožňuje investice v případě poklesu cen, a inovativní strategii Turbo Nákup, která přidává 60 % k vašim nákupům.\nAplikace dále obsahuje Akademii, kde se mohou uživatelé učit o kryptoměnách v jejich vlastním tempu, a funkci Auto Send, která automatiky přesune bitcoiny na hardwarovou peněženku. Invity také plánuje zavést půjčky kryté bitcoinem.\nNa blížící se konferenci se návštěvníci mohou těšit na praktické workshopy od Dominiky Vykydalové a Matouše Ledviny, kteří představí základní principy bitcoinu a oblíbené investiční strategie. Mezi zajímavými tématy se objevuje i keynote od Michala Nýdrleho, který se zaměří na důležitost důvěry jako klíčové měny na trhu a důsledky současných ekonomických tendencí.\nInvity vítá všechny zájemce u jejich stánku na konferenci CryptoByte, kde budou ochotni sdílet znalosti o bitcoinu a investičních strategiích.\n\n👨‍🏫**[Program](https://cryptobyte.cz/program)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "invity"
+  },
+  "blog/post/zcash": {
+    "date_published": "2026-04-24T12:00:00",
+    "title": "Víte, že letos budeme mít skutečně zahraničního speakera?",
+    "featured_image": "/media/94cbad457e1b59d86f46.jpg",
+    "perex": "Frank Braun z Německa představí Zcash ve své přednášce v Liberci.",
+    "text": "Ten, komu nedělá větší problémy angličtina, by si letos neměl nechat ujít příležitost seznámit se se skutečně anonymní kryptoměnou Zcash. Zcash je digitální měna zaměřená na ochranu soukromí, která umožňuje uživatelům bezpečně odesílat a přijímat platby bez odhalení citlivých finančních informací. Díky pokročilé kryptografii typu zero-knowledge nabízí Zcash jak transparentní, tak plně chráněné (shielded) transakce – uživatelé si tak mohou zvolit, kdy chtějí své finanční údaje chránit. Tento přístup vychází ze základního přesvědčení komunity, že soukromí je základním lidským právem.\n\nS přednáškou na téma Zcash přijede Frank Braun, zakladatel projektu zSTASH, peněženky s důrazem na maximální soukromí, ve které si můžete ukládat vaše Zcash coiny.\nFrank reprezentuje na konferenci našeho Super partnera Zcash Community Grants (ZCG), organizaci, která pomáhá financovat nezávislé přispěvatele, kteří budují nástroje, infrastrukturu a vzdělávání pro růst celého ekosystému.\n\nZcash Community Grants je hrdým partnerem konference CryptoByte. Máte zájem se zapojit do ekosystému Zcash? Začněte tím, že se připojíte do diskuse na Zcash Community Forum a spojíte se s dalšími lidmi, kteří budují budoucnost finančního soukromí.\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "zcash"
+  },
+  "blog/post/frank-braun": {
+    "date_published": "2026-04-23T12:00:00",
+    "title": "The first truly international speaker at CryptoByte!",
+    "featured_image": "/media/c8541d95842e0aaabcd7.jpg",
+    "perex": "Have you heard about the anonymous cryptocurrency Zcash?",
+    "text": "Don’t miss the opportunity to discover a truly anonymous cryptocurrency — Zcash.\n\nZcash is a privacy-focused digital currency that enables users to securely send and receive payments without exposing sensitive financial information. Using advanced zero-knowledge cryptography, Zcash supports both transparent and fully shielded transactions, allowing users to choose when they want to protect their financial data. This approach is rooted in the community’s core belief that privacy is a fundamental human right.\n\nA talk on Zcash will be delivered by Frank Braun, founder of the zSTASH project — a wallet focused on maximum privacy, where you can securely store your Zcash coins. Frank is representing our Super Partner, Zcash Community Grants (ZCG), an organization that helps fund independent contributors building tools, infrastructure, and educational resources to support the growth of the entire ecosystem.\n\nZcash Community Grants is a proud partner of the CryptoByte conference. Interested in getting involved in the Zcash ecosystem? Start by joining the discussion on the Zcash Community Forum and connect with others who are building the future of financial privacy.\n\n👨‍🏫**[Speakes](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Tickets](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "frank-braun"
+  },
+  "blog/post/ako-tazit-kryptomeny": {
+    "date_published": "2026-04-22T12:00:00",
+    "title": "Víte, že můžete těžit s Ako ťažiť kryptomeny?",
+    "featured_image": "/media/f33fd24fe966c563441a.jpg",
+    "perex": "Opravdu lze těžbou dosáhnout nižší nákupní ceny BTC?",
+    "text": "Za projektem [Ako-ťažiť-kryptomeny.sk](https://ako-tazit-kryptomeny.sk/) stojí dlouhodobý zájem o kryptoměny, technologie a samotnou těžbu. Vznikl přirozeně – z vlastních zkušeností, postupného objevování tohoto oboru a z reálného kontaktu s tím, jak mining funguje v praxi. Postupně se z něj stal komplexní projekt, který dnes nezahrnuje jen prodej minerů, ale i vše důležité kolem nich – od prvotní orientace v tématu a výběru vhodného zařízení, přes nákup a spuštění, až po servis, housing a následný provoz. Dnes za ním stojí více než 4 300 prodaných minerů, přes 1 900 klientů a zázemí budované od roku 2015.\n\nPrávě tento širší pohled je pro celý projekt klíčový, protože u těžby nejde jen o nákup zařízení, ale především o pochopení toho, co dává smysl v konkrétní situaci. Těžba kryptoměn je oblast, kde nestačí sledovat jen samotný produkt. Důležité je rozumět souvislostem – jaké zařízení zvolit, co ovlivňuje jeho návratnost a co řešit z hlediska elektřiny, hlučnosti, chlazení nebo umístění. I proto se kolem Ako-ťažiť-kryptomeny.sk postupně vybudovalo širší zázemí, které propojuje technické zkušenosti, servis, poradenství a praktický pohled na celý mining. Samotný web tento přístup komunikuje jasně: prodej ASIC a GPU minerů, datacentra, servis, zaškolení i další služby pro začátečníky.\n\nDůležitou součástí projektu je také edukace. V této oblasti stále existuje mnoho otázek, nejasností i zjednodušených představ, a proto má smysl věci vysvětlovat srozumitelně a věcně. Nejde jen o nabídku zařízení, ale o pomoc lidem lépe se zorientovat, pochopit [základní principy](https://ako-tazit-kryptomeny.sk/pred-kupou-prveho-minera/) a rozhodovat se na základě širšího kontextu. Pro mnoho uživatelů není mining zajímavý jen jako technologie, ale také proto, že při správném nastavení může znamenat [levnější získání kryptoměn než na burze](https://ako-tazit-kryptomeny.sk/17x-preco-ist-do-tazby-kryptomien/), efektivnější práci s cenou elektřiny a u některých coinů i možnost fungovat bez klasického KYC procesu.\n\n\n>\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n",
+    "slug": "ako-tazit-kryptomeny"
+  },
+  "blog/post/coinero": {
+    "date_published": "2026-04-11T12:00:00",
+    "title": "Víte, že Coinero je Fan partnerem konference?",
+    "featured_image": "/media/609c4e771551d3531326.jpg",
+    "perex": "Coinero jste asi znali jako Coinbank",
+    "text": "S radostí oznamujeme, že partnerem konference CryptoByte 2026 se stává Coinero 🚀\n \nCoinero je česká kryptoměnová platforma působící od roku 2017, kterou uživatelé dříve znali pod značkou CoinBank.cz. V návaznosti na regulatorní vývoj a další směřování služby prošla značka rebrandingem na Coinero. Dnes nabízí jak jednoduchou směnárnu Coinero.cz, tak také Trader.Coinero.cz – zjednodušené burzovní rozhraní, ve kterém se promítají kurzy ze světových burz. Klienti tak mají lepší přehled o trhu, větší kontrolu nad obchodem a transparentnější prostředí pro nákup i prodej kryptoměn 📈\n \nNa platformě lze obchodovat za CZK, EUR, USD i BTC, využívat okamžité platby, staking, Lightning Network pro rychlé a levné bitcoinové transakce i pravidelné nákupy podle DCA strategie ⚡ K dispozici je také mobilní aplikace s biometrickým přihlášením, díky které mají uživatelé své portfolio vždy po ruce 📱\n \nCoinero je určeno nejen pro jednotlivce, ale také pro podnikatele a právnické osoby, které hledají přehledné a efektivní řešení pro práci s kryptoměnami. Platforma tak spojuje jednoduchost pro běžné uživatele s funkcionalitami, které ocení i náročnější klientela.\n \nJsme rádi, že můžeme Coinero přivítat mezi partnery CryptoByte 2026 a těšíme se na společné posouvání české kryptoscény dál 🙌\n\n>\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n\n",
+    "slug": "coinero"
+  },
+  "blog/post/liberation-travel": {
+    "date_published": "2026-04-07T12:00:00",
+    "title": "Víte, že Liberation Travel jsou partnery konference?",
+    "featured_image": "/media/caae0efeb263db042dcc.jpg",
+    "perex": "Travel hackeři, krypto nadšenci a podnikatelé, kteří žijí přesně tak, jak radí!",
+    "text": "#### **Útlak existuje jen proto, že odchod je drahý a komplikovaný. Snižte náklady na odchod — a tyran ztratí svou moc. Snižujeme exit costs pro lidi, pro které je ekonomická a osobní svoboda prioritou.**\n---\n[Liberetion Travel](https://liberation.travel/) jsou travel hackeři, krypto nadšenci a podnikatelé, kteří žijí přesně tak, jak radí. Každou destinaci, každou banku i každý proces osobně vyzkoušeli. Jejich klienti platí v kryptoměnách, protože věří, že svoboda začíná i u způsobu, jakým platí.\n\nHlasujte nohama. Pokud vám stát neposkytuje adekvátní službu za peníze, které od vás bere — odejděte tam, kde s vámi budou zacházet lépe. Je to legální, je to morální a je to vaše právo.\n\n#### **Útěk z digitálního vězení: Jak se stát globálním oportunistou a ovládnout hru, kterou stát nemůže vyhrát**\n----\nDnešní svět už není rozdělen jen hranicemi na mapě, ale neviditelnými mřížemi rostoucího státního dohledu a finanční tyranie. Moderní stát se proměnil v nenasytný mechanismus, který trestá úspěch a likviduje soukromí. Podívejte se na Nizozemsko: zavedlo 36% daň z nerealizovaných zisků z kryptoměn a akcií. Stát vás nutí platit za „bohatství“, které existuje jen na papíře, zatímco u nemovitostí – tradičního majetku elit – udělil pokryteckou výjimku.\nSoučasně se v EU i USA (kde už v červenci startuje projekt „Fed Now“) připravuje půda pro digitální měny centrálních bank (CBDC). To není jen technologický upgrade, je to konečná stanice pro vaši finanční autonomii. CBDC umožní vládám programovat vaše peníze, omezovat jejich platnost nebo vám prostě vypnout přístup k majetku jediným kliknutím. V takovém světě už soukromí není luxusem – je to základní nástroj přežití. Koncept „Liberation Travel“ a globálního oportunismu nabízí cestu, jak z tohoto systému legálně vystoupit a začít hrát podle vlastních pravidel.\nKonec globálního apartheidu: Proč je oportunismus ctností svobodného člověka\nVětšina lidí tráví život jako rukojmí náhody, že se narodili v určité jurisdikci. Pavol Lupták mluví o „globálním apartheidu“ – systému, který vás diskriminuje nebo privileguje jen na základě barvy vašeho pasu. Globální oportunista tento koncept odmítá. Místo abyste se snažili měnit zkorumpovaný systém hlasováním, využíváte „legální arbitráž“.\nBýt globálním oportunistou znamená aktivně si vybírat nejlepší jurisdikce pro různé aspekty života. Proč mít daňovou rezidenci, bankovní účet a firmu v jedné zemi, která vás může kdykoliv skřípnout? Skutečná svoboda vyžaduje více karet v rukávu. Klíčovým pilířem Flag Theory je dnes druhý pas – například ze Svaté Lucie nebo jiných karibských států. Je to vaše pojistka proti „vypnutí“ identity. Vzpomeňte na Edwarda Snowdena, kterému USA na dálku zneplatnily pas, čímž ho uvěznily v tranzitní zóně. Druhé občanství je základním stavebním kamenem vaší nezávislosti.\n„Většina lidí se o svobodu nestarala, nestará a starat nebude, a to je fakt. Svobodomyslní lidé byli, jsou a vždy budou menšinou. Když si to uvědomíte, přestanete se snažit změnit globální společnost hlasováním nebo politickými změnami, protože ty jsou pro mainstream, který se o svobodu nezajímá.“ říká Pavol Lupták, zakladatel [Liberation Travel](https://liberation.travel/) a jeden ze speakerů na konferenci CryptoByte\n\n>\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n\n\n",
+    "slug": "liberation-travel"
+  },
+  "blog/post/krotitele-entropie": {
+    "date_published": "2026-04-02T10:27:00",
+    "title": "Víte, že budeme křtít knihy?",
+    "featured_image": "/media/c4c8fbd3b8bad8e307d8.jpg",
+    "perex": "Na CryptoByte 2026 proběhne křest unikátní knihy od Juraje Bednára",
+    "text": "Během konference CryptoByte dojde i na oznámení a křest nové knihy **Krotitelé entropie** od Juraje Bednára, známého sériového podnikatele, hackera a autora několika knih. Na stánku s knihami se můžete těšit, mimo jiné i na  tuto knihu a to hned ve třech jazykových variantách, anglické, slovenské a české.\n\nA co o své nové knize říká Juraj?\n*\"Tato kniha má dlouhou historii. První semínka padla ještě během vysoké školy — při wardrivingu po bratislavských ulicích, při neurofeedbacku a trénování mozku pomocí EEG, při cestování s kamarády a sledování toho, jak digitální a fyzické prostředí prorůstají jedno do druhého. Tyto myšlenky vznikaly dávno předtím, než se ChatGPT stal slovem roku — ale když AI skutečně přišla, najednou bylo jasné, že jsou mnohem aktuálnější, než jsem si myslel. Celý text jsem zahodil a napsal znovu. V angličtině — vědomě, abych přetrhl vazbu na původní rukopis.*\n\n*Krotitelé Entropie staví na myšlenkách Lunarpunku. Ten spojuje Cypherpunk — šifrování, anonymitu a budování paralelních struktur mimo dosah starých institucí — se Solarpunkem, který mluví o pozitivním vztahu k technologiím a přírodě. Lunarpunk bere to nejlepší z obou: budujeme nové věci, jsme zakotveni v přírodním rytmu, ale jdeme vlastní cestou — neviditelní, paralelní, decentralizovaní. Pokud vím, lunarpunkový román zatím neexistuje. Krotitelé Entropie jsou můj pokus položit základní kámen tohoto žánru.\nRomán je zároveň dobrodružný příběh, filozofický experiment i osobní zpověď. Vědomě se vyhýbá naivnímu příběhu o tom, že Bitcoin zachrání svět — paralelní cesta je o infrastruktuře, komunitách a způsobu myšlení, ne o měně. A zkoumá, jak taková cesta může vypadat realisticky — v čase, kdy staré struktury ještě stojí, ale pro ty, kteří hledají, jsou paralelní cesty už tu.\"*\n- > Nevyjde vám to přijet na CryptoByte, ale chtěli byste vědět, až bude kniha \"venku\"? Navštivte 🌐 [tamersofentropy.net](https://tamersofentropy.net/) 🌐 a zanechte váš e-mail. Budete v obraze a první mezi čtenáři :-)\n\n--------------------------------------------------------\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n\n",
+    "slug": "krotitele-entropie"
+  },
+  "blog/post/galosoft": {
+    "date_published": "2026-04-01T12:00:00",
+    "title": "Víte, že Galosoft jsou těžaři i SW vývojáři?",
+    "featured_image": "/media/7065a2c726d4154f2d84.jpg",
+    "perex": "Partnerem konference ja společnost Galosoft a její CEO se představí také jako jeden z přednášejích",
+    "text": "## ⚙️ Galosoft na CryptoByte: Od těžby Bitcoinu po AI nástroje budoucnosti\nSkupina Galosoft se opět vrací na CryptoByte 🚀 a přijíždí s plnými kufry. Nejen s těžebními stroji v provozu, immersion chlazením a přednáškou o tom, kde se skutečně píše budoucnost Bitcoinu ⚡, ale také s dosud největším překvapením v historii skupiny 👀\n\nKdo je Galosoft?\nGalosoft je česká rodinná technologická skupina se sídlem v Jižních a Západních Čechách 📍, která spojuje na první pohled vzdálené světy: softwarový vývoj 💻, Bitcoin mining ⚡ a energetiku 🔌. Zakladatelé skupiny o sobě říkají, že jsou “banda obsedantně kompulzivních lidí s vášní pro detail.”\n\nRealita tomu odpovídá: tvoří AI produkty 🤖, POS systémy, webový software a automatizační nástroje, zároveň provozují těžební infrastrukturu pro Bitcoin na čtyřech kontinentech 🌍 a propojují těžbu s moderní energetikou.\n\nDceřiná společnost Galosoft CRYPTO s.r.o. se zaměřuje na prodej, hosting a provoz těžebních strojů v UAE, USA, Etiopii i České republice 🌎. Mateřská Galosoft s.r.o. stojí za softwarovými produkty skupiny a jeden z nich bude poprvé veřejně představen právě na této konferenci ✨\n\n#### František Kohout: Bitcoiner, který nepřijímá \"to nejde\"\nTváří Galosoftu na konferencích a přednáškových pódiích je František Kohout, programátor duší, CEO skupiny a spoluzakladatel Galosoft CRYPTO. S kryptoměnami pracuje přes deset let, ale přistupuje k nim výrazně jinak než většina lidí v oboru: nezajímá ho primárně cena Bitcoinu, ale jeho infrastruktura, decentralizace a fyzická produkce.\n\nV roce 2025 stál na pódiu CryptoByte s přednáškou s provokativním názvem \"Co (ne)zůstalo z původní vize?\" Poctivá analýza toho, jak koncentrace kapitálu, vliv veřejně obchodovaných těžebních firem a mocenská mapa poolů postupně překreslují bitcoinový ekosystém. Žádný FUD, žádné prázdné slogany, konkrétní čísla, jména a mechanismy. A hlavně: co s tím lze dělat. Open-source firmware, domácí těžba, nové protokoly, využití odpadního tepla. František věří, že budoucnost Bitcoinu se skutečně těží, v každém smyslu toho slova.\n\nNa podzim 2025 pak vystoupil na Crypto Business Prague s dvoudílnou přednáškou, kde ukázal dvě tváře těžby Bitcoinu. V první části ji zasadil do kontextu investičního portfolia: těžba jako alternativa k nákupu na burze, s důrazem na čistý původ aktiv, transparentnost a přímou kontrolu nad výnosem. Ve druhé části otočil perspektivu a představil těžbu jako součást moderního energetického ekosystému, od vytápění domácností přes vyvažování sítě až po poskytování služeb výkonové rovnováhy v rozsahu jednotek kW až desítek MW.\n\n**Co vás čeká na stánku # Galosoft**\nNa letošním CryptoByte přijíždí Galosoft s plně funkčním stánkem, kde návštěvníci uvidí těžební stroje reálně v provozu, ne jako exponát, ale jako živou ukázku toho, co tenhle byznys obnáší. Zájemci si budou moci stroje rovnou zakoupit na místě a využít slevový kód GalosoftCryptoByte na slevu 150 USD.\n\nSoučástí stánku bude i ukázka immersion coolingu, ponořování těžebních strojů do dielektrického oleje jako způsob efektivního chlazení s výrazně nižším hlukem a delší životností hardware. Pro mnohé návštěvníky půjde o první živý kontakt s touto technologií.\n\nLidé z Galosoftu budou k dispozici na otevřenou diskuzi o tématu, které stojí mimo tradiční bitcoinové narativy: těžba jako součást energetické infrastruktury. Jak může být těžební zařízení predikovatelnou a flexibilní zátěží pro obnovitelné zdroje? Jak funguje vytápění průmyslových prostor odpadním teplem z minerů? Tyhle otázky tým Galosoftu řeší v praxi, ne jen v teorii, a rád o nich mluví.\n\nA pro ty, kdo přijdou s prázdnýma rukama: soutěž o Guardian MINI na guardiansofblockchain.com je čeká přímo na stánku.\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n- -\n\nA pak je tu ještě jedna věc...\n\nSkupina Galosoft na CryptoByte poprvé veřejně představí nový produkt. Prozradíme jen tolik: jde o výkonný AI nástroj který vznikl v dílně Galosoftu. Více se dozvíte přímo na místě.\n\nProč Galosoft?\nV České republice existuje jen málo firem, které dokážou věrohodně propojit Bitcoin mining s energetikou a zároveň dodávat softwarové produkty s reálnou AI integrací. Galosoft je jednou z nich, a to ne jako startup, který plánuje vstoupit do obou světů, ale jako tým, který v obou reálně operuje.\n\nPokud vás zajímá těžba Bitcoinu, energetika nebo nástroje budoucnosti pro vaše podnikání, stánek Galosoft na CryptoByte je místo, kde se všechno tohle sbíhá dohromady.\n\nZastavte se. \n\nUvidíte, jak těžba Bitcoinu skutečně funguje.\n\nA možná odejdete s novinkou, o které jste ještě neslyšeli.",
+    "slug": "galosoft"
+  },
+  "blog/post/anycoin-partner": {
+    "date_published": "2026-03-20T12:00:00",
+    "title": "Víte, že Anycoin bude na konferenci?",
+    "featured_image": "/media/d43b45fef245e0328ae1.jpg",
+    "perex": "Kryptoměnová směnárna Anycoin Prima partnerem CryptoByte 2026",
+    "text": "S radostí oznamujeme, že Prima partnerem konference CryptoByte 2026 se stává Anycoin 🚀\n\nAnycoin je česká kryptoměnová směnárna působící od roku 2019, která si za tu dobu vybudovala silnou pozici na trhu a dnes obsluhuje více než 140 000 klientů 👥. Umožňuje jednoduchý nákup a prodej kryptoměn za české koruny i eura – rychle, přehledně a z pohodlí domova 🏡\n\nNa platformě lze obchodovat více než 380 kryptoměn 📊 a díky mobilní aplikaci mají uživatelé svůj účet vždy po ruce 📱. Samozřejmostí je i možnost platit Bitcoinem přes Lightning Network ⚡\n\nPro pravidelné investory nabízí Anycoin oblíbenou funkci DCA 💡, která umožňuje automatické investování bez ohledu na aktuální cenu trhu. Nechybí ani staking pro zhodnocení vybraných kryptoměn 💰\n\nAnycoin myslí jak na jednotlivce, tak i firmy 🏢 a nabízí denní zákaznickou podporu v češtině 📞. Díky kombinaci jednoduchosti, pokročilých funkcí a regulace v rámci MiCA 🌍 je vhodný jak pro začátečníky, tak i zkušené uživatele\n\nJsme rádi, že můžeme Anycoin přivítat mezi partnery CryptoByte 2026 🙌 a těšíme se na společné posouvání kryptoměnového ekosystému dál 🚀\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "anycoin-partner"
+  },
+  "blog/post/matematika-bitcoinu": {
+    "date_published": "2026-03-19T12:00:00",
+    "title": "Víte, že budeme křtít knihy?",
+    "featured_image": "/media/2d71a3bf9986674037e1.jpg",
+    "perex": "Na CryptoByte 2026 proběhnou i křesty dvou knih. První z nich je Matematika Bitcoinu.",
+    "text": "Jan Čopák: Matematika Bitcoinu. O Bitcoinu se mluví téměř všude – od technologických komunit až po geopolitická jednání 🌍. Přesto ale většině lidí chybí hlubší pochopení toho, co se skutečně odehrává „pod kapotou“. A právě tohle je mezera, kterou se tato kniha snaží zaplnit.\n\nZatímco mnoho publikací vysvětluje Bitcoin z pohledu ekonomie nebo investování, Honza Čopák jde jinou cestou. Vede čtenáře přímo k jádru věci – k matematice, kryptografii a datovým strukturám, na kterých celý systém stojí 🔐. A i když to může znít náročně, kniha dokazuje, že i komplexní témata lze podat srozumitelně a čtivě.\n\nVelkou předností knihy je její schopnost pracovat s představivostí čtenáře. Například vysvětlení bezpečnosti Bitcoinu skrze obrovská čísla dokáže změnit pohled i těm, kteří se matematiky spíše obávali. Najednou si uvědomíte, že uhodnout privátní klíč je prakticky nemožné – asi jako najít jedno konkrétní zrníčko písku v celé galaxii ✨. A právě v ten moment přichází pochopení i respekt k tomu, jak robustní tento systém vlastně je.\n\nPokud vás tedy zajímá Bitcoin doopravdy, nejen jako investice, ale jako technologický a matematický fenomén, je Matematika Bitcoinu přesně tím čtením, které by vám nemělo uniknout. Možná zjistíte, že to, co se na první pohled zdá složité, je ve skutečnosti překvapivě elegantní. A že za Bitcoinem nestojí magie, ale krásná a promyšlená matematika ❤️.\n\n💡Tip: Držitelé vstupenky Premium Pass a Boarding Pass dostanou knhu jakou součást dárkové tašky při vstupu na konferenci. Honza Čoák vám ji na konferenci rád podepíše 🖋️\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n\n-------------------------------------------------",
+    "slug": "matematika-bitcoinu"
+  },
+  "blog/post/stosuj-saty": {
+    "date_published": "2026-03-16T12:00:00",
+    "title": "Víte, že můžete \"štosovat saty\" efektivně?",
+    "featured_image": "/media/98e12e63f23d030f9615.jpg",
+    "perex": "S Fan partnerem Štosuj.cz to jde snadno.",
+    "text": "Fan partnerem letošního CryptoByte je [Štosuj.cz](https://stosuj.cz/), česká platforma pro automatizaci vlastní bitcoinové strategie. Štosuj.cz pomáhá lidem kupovat (a prodávat) bitcoin systematicky, bez emocí a bez toho, aby museli každý den sledovat kurz. Zakladatel Luboš Kovařík, který se bitcoinu věnuje přes dvanáct let, projekt původně vytvořil pro sebe – jako vývojář si chtěl zautomatizovat vlastní strategii. Pak si uvědomil, že tohle trápí spoustu dalších lidí, a rozhodl se s tím pomoci i jim. Dnes má Štosuj přes 15 600 registrovaných uživatelů, víc než 8 500 aktivních strategií a za sebou přes 1 350 000 provedených objednávek s celkovým objemem přesahujícím 3,2 miliardy korun.\n\nInvestice do bitcoinu s sebou kromě výrazného cenového růstu přináší také výraznou volatilitu, což může být pro mnoho lidí velký problém díky emocím, které jsou jako na horské dráze. Impulzivní rozhodnutí, panika při propadu nebo euforie při růstu. Díky obchodování na základě emocí mají lidé tendenci nakupovat převážně v době, kdy bitcoin roste a naopak prodávat, když cena klesá. Jak ale víme ze známého tvrzení, nakupovat se má v době, kdy na ulici teče krev. \n\n\nŠtosuj tento problém řeší jednoduše – všechno rozhodování nahradí předem nastavenou strategií, kterou si investor nastaví a vše pak probíhá automaticky. Štosuj přitom nefunguje jako burza ani jako peněženka, nýbrž jako nadstavba nad propojenou směnárnou nebo burzou (Coinmate, Anycoin, Binance, Bitstamp). Vaše peníze a krypto zůstávají celou dobu u vás, Štosuj má přes API pouze oprávnění zadávat příkazy k nákupu nebo prodeji.\n\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n\n-------------------------------------------------\n\nZákladem celé platformy je DCA strategie – dollar-cost averaging, tedy pravidelné nakupování za stále stejnou částku bez ohledu na cenu. Tato strategie patří mezi nejlepší způsoby, jak si dlouhodobě spořit do bitcoinu aniž byste museli řešit, jestli je teď \"správná chvíle\". Čas v trhu přebíjí časování trhu.\n\nDCA však není jediná strategie a investor má k dispozici více možností.\n\nJedním z nich je například Dynamická DCA strategie. Tato strategie je to, co Štosuj odlišuje od jednoduchých automatizovaných nákupů. Místo toho, aby se pokaždé nakoupilo za stejnou částku, se velikost investice přizpůsobuje aktuální situaci na trhu – na základě dlouhodobých indikátorů. V praxi to znamená, že při poklesu investujete víc, při přehřátém trhu míň. Výsledkem je nižší průměrná nákupní cena a lepší celkové zhodnocení, což backtesty na historických datech potvrzují s rozdílem v řádu desítek procent oproti klasickému DCA.\n\nMezi tyto indikátory patří napříkad NUPL indikátor (Net Unrealized Profit/Loss) sleduje, jak velkou část držitelů bitcoinu je v zisku nebo ve ztrátě, a podle toho přizpůsobuje velikost nákupů nebo Fear & Greed Index který měří náladu trhu na škále od krajního strachu po extrémní chamtivost.\n\n\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n",
+    "slug": "stosuj-saty"
+  },
+  "blog/post/bitcoinmat": {
+    "date_published": "2026-03-13T12:00:00",
+    "title": "Víte, že bude i afterparty? 🤩",
+    "featured_image": "/media/7bb84db0c7c4777858cf.jpg",
+    "perex": "Pořádná afterparty a Bitcoinmat.sk!",
+    "text": "Afterparty partnerem 5. ročníku CryptoByte je [Bitcoinmat.sk](https://bitcoinmat.sk/)! \nALL-IN-ONE krypto platforma, která poskytuje smart obchodování, spoření, investování do kryptoměn – a to vše pod jednou střechou a bez starostí.\n\nKrypto účet s možností obchodování a úschovy kryptoměn si otevřete rychle, už do 1 minuty.\n\nNákup a prodej provedete jednoduše online převodem, v hotovosti nebo platební kartou prostřednictvím největší sítě Bitcoinmatů v Česku a na Slovensku.\n\n🚀 Nákup bez zdržení: Plnohodnotný účet založený do dvou minut.\n🏧 90+ Bitcoinmatů ve vašem okolí: Jsme tam, kde jste Vy. Najdete nás ve více než 90 městech po celém Slovensku a Česku.\n📈 Spoření nové generace (DCA): Průměrujte si nákupní cenu a budujte své bohatství bez stresu z tržních výkyvů.\n🎁 Investiční balíčky na míru: Od konzervativního „Digitálního zlata“ až po inovativní mixy kryptoměn. Diverzifikujte své portfolio jedním kliknutím.\n💰 Staking – pasivní příjem: Aktivujte si staking a sledujte, jak vám vaše portfolio generuje pasivní výnos.\n🟡 PaxGold: Zlato v mobilu: PaxGold spojuje to nejlepší z obou světů – bezpečnost fyzického zlata a svobodu blockchainu.\n💳 Kryptoměnový účet i pro firmy: Posuňte své podnikání do 21. století. Spravujte firemní krypto aktiva bezpečně a pod jednou střechou.\n\nVíme, že u peněz jde o důvěru. Proto u nás najdete nejen špičkové technologie, ale také živou zákaznickou podporu, která je vám k dispozici každý den, i o víkendu. Ale v sobotu 16.5.2026 doporučujeme spíš afterparty, na kterém vás čeká bitcoinerské překvapení ✨🤩✨\n\n\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "bitcoinmat"
+  },
+  "blog/post/bmw": {
+    "date_published": "2026-03-12T12:00:00",
+    "title": "Víte, že na CryptoByte 2026 bude největší, nejrychlejší a nejvýkonnější BMW!?!?!? ",
+    "featured_image": "/media/e902414080749e7944f6.jpg",
+    "perex": "Na účastníky konference čeká královské BMW!\n",
+    "text": "Na účastník konference čeká královské BMW!\nProč „Královské auto“? Tento model si vybrali ti nejnáročnější monarchové světa jako symbol nové éry a luxusu:\n\nBritský král Karel III. má i7 jako hlavní vůz pro oficiální příležitosti a \nnorský král Harald V., známý milovník aut, BMW i7 využívá ve své státní flotile.\n\nTechnika a podvozek: DNA Rolls-Royce\nPlatforma: i7 sdílí klíčové komponenty podvozku s modelem Rolls-Royce Spectre.\n\n- Executive Drive Pro: Unikátní systém aktivních stabilizátorů zabraňuje naklánění karoserie v zatáčkách. Auto „žehlí“ silnici, jako by se nad ní vznášelo.\n- Akustická izolace: Aktuálně nejlépe odhlučněné vozidlo planety. Speciální pěna v pneumatikách a vrstvená skla vytvářejí v kabině absolutní ticho.\n\nInteriér: High-tech palác\n\n- Materiály: Unikátní kombinace kůže Merino a pravého kašmíru (BMW Individual). Je to jemnější a luxusnější než jakákoliv běžná kůže. V létě chladí v zimě hřeje.\n- Swarovski krystaly: Ovládací prvky (volič převodovky, iDrive ovladač a sedadla) jsou z broušeného křišťálu. Přes palubní desku se táhne svítící Interaction Bar.\n- Sky Lounge: Panorama střecha s laserem gravírovanými světelnými vlákny, která v noci vytvářejí světelnou grafiku.\n- Kinosál na kolech: Zadní dotykový BMW Theatre Screen s úhlopříčkou 31,3\" a rozlišením 8K vyjíždí ze stropu.\n- 4D Audio: Systém Bowers & Wilkins Diamond Surround (nejen Wilkinson) s reproduktory v opěrkách hlavy a vibračními měniči v sedadlech – zvuk doslova cítíte v těle.\n- Masážní lounge: Sedadla nabízejí 12 programů včetně masáže sedáků (prokrvení nohou).\n\n\nFascinující vychytávky\n\n- Automatické dveře: Otevírají se na tlačítko nebo hlasem. Stačí však jen šlápnout na brzdu a auto za vámi dveře samo tiše zavře – pocit absolutní obsluhy.\n- Zvuk od Hanse Zimmera: Zvukový projev IconicSounds Electric vytvořil držitel Oscara Hans Zimmer. V režimu M Sport zní i7 jako futuristický osmiválec z jiného světa.\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "bmw"
+  },
+  "blog/post/newstream": {
+    "date_published": "2026-03-05T12:00:00",
+    "title": "Víte, že mediálním partnerem ...",
+    "featured_image": "/media/fec945afe1aacb50cb8a.jpg",
+    "perex": "konference je Newstream.cz?",
+    "text": "[Newstream.cz](https://www.newstream.cz/) je nezávislý zpravodajský web zaměřený na ekonomiku, lifestyle, finance a realitní trh. Vznikl v červenci 2021 a vydává jej společnost Newstream Agency a.s. Čtenářům přináší přehledné a srozumitelné informace ze světa peněz, od dění v českých firmách přes globální ekonomiku a kapitálové trhy až po investice, reality a chytrý lifestyle. Každý měsíc oslovuje přibližně jeden milion čtenářů. I to byl jeden z důvodů, proč se Newstream stal pro letošní, již 5. ročník, mediálním partnerem kryptoměnové konference CryptoByte.\n\nRedakce staví na aktuálním zpravodajství, rozhovorech s výraznými osobnostmi, komentářích a analýzách i vlastním videoobsahu a podcastech. Makroekonomická témata a vývoj inflace pravidelně komentuje například i pravidelný host konference CryptoByte, ekonom Lukáš Kovanda. Cílem je nabídnout to nejpodstatnější bez informačního balastu, rychle, přehledně a v moderním formátu. Newstream se profiluje jako médium tvořené novináři, nikoli marketéry.\n\nSoučástí obsahu jsou také pravidelné newslettery. Ranní newsletter Úspěšné ráno vychází pětkrát týdně a během několika minut shrnuje nejdůležitější zprávy dne. Realitní newsletter přináší každou neděli výběr klíčových událostí z realitního trhu, vývoje cen bydlení, hypoték i komerčních nemovitostí. Oba jsou zdarma a zaměřují se na stručnost a praktičnost.\nNewstream rozvíjí i vlastní podcastovou tvorbu. [Podcast Realitní Club](https://www.newstream.cz/podcast/realitni-club) se věnuje aktuálním tématům realitního trhu a zve politiky, developery, architekty, analytiky i další odborníky. VIP Eva Talks moderátorky Evy Čerešňákové přináší rozhovory se známými osobnostmi ze společenského a kulturního života. Portfolio doplňuje také podcast [Newstream Byznys Talk](https://www.newstream.cz/stitek/newstream-byznys-talk) s lídry české ekonomiky.\n\nVydavatelství stojí také za tištěnými magazíny Newstream CLUB a Realitní CLUB. Magazín Newstream CLUB je lifestylově orientovaný byznysový titul určený pro socioekonomicky vyšší cílovou skupinu. Přináší rozhovory se zajímavými osobnostmi napříč spektrem společnosti a věnuje se tématům úspěchu, podnikání i životního stylu. Magazín Realitní CLUB se zaměřuje na development, architekturu, rekonstrukce nemovitostí, design, investice a financování realit a je součástí platformy Realitní Club.\nKromě mediálního obsahu Newstream pořádá také odborné i společenské eventy a networkingové kluby, které propojují podnikatele, investory a další osobnosti ekonomického života.\n-------------------\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "newstream"
+  },
+  "blog/post/millionaire-pass": {
+    "date_published": "2026-03-01T08:00:00",
+    "title": "Víte, že se můžete stát milionářem?",
+    "featured_image": "/media/f444f0b2d081f03aaa0b.jpg",
+    "perex": "Stát se milionářem na jeden den není zas tak drahé.",
+    "text": "Máte rádi výjimečnost? Máte rádi něco opravdu unikátního a k tomu být podporovatelem konference číslo JEDNA?  \nKromě běžných i prémiových vstupenek na konferenci CryptoByte si jen a pouze jediný návštěvník může zakoupit unikátní vstupenku \"Millionaire Pass\". Let helikoptérou, vstup do backstage, celodenní catering, vyhrazené místo v hlavním sále, … Užijte si akci, jako nikdo druhý. Stačí vám na to milión Satů. Ano, vstupenka, kterou si za koruny nekoupíte. Prostě skočte na některou z českých kryptoměnových směnáren nebo burz, nakupte si milión Satů (0,01 BTC) a staňte se VIP návštěvníkem.\n----------\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "millionaire-pass"
+  },
+  "blog/post/slosovani": {
+    "date_published": "2026-02-28T12:00:00",
+    "title": "Víte, že můžete vyhrát?",
+    "featured_image": "/media/de24b72df81fb8ff88e7.jpg",
+    "perex": "Kupte si běžnou vstupenku a vyhrajte nevšední zážitek. ",
+    "text": "Pro držitele speciálních \"Millionaire Pass\" a \"Boarding Pass\" je den před konferencí připraven nezapomenutelný zážitek – let helikoptérou nad Ještědem, Libercem a Jizerskými horami, který symbolizuje \"to the moon\" mentalitu bitcoinerské komunity. Víte ale, že se můžete proletět i se základní vstupenkou Member Pass nebo dokonce se vstupenkou Student Pass? Tyto vstupenky jsou totiž automaticky slosovatelné a jeden šťastlivec tak vyhraje upgrade své vstupenky na vstupenku Boarding Pass. Proletí se v pátek před konferencí nad Libercem a k tomu získá i další výhody jako rezervované místo v hlavním sále a dárkovou tašku. Jedinou podmínkou je zakoupení některé z uvedených vstupenek do 30. dubna 2026.\nZnáte to. \"Štěstí nechodí po horách, …\"\n\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n",
+    "slug": "slosovani"
+  },
+  "blog/post/mesec": {
+    "date_published": "2026-02-19T12:00:00",
+    "title": "Víte, že mediálním partnerem ...",
+    "featured_image": "/media/4a1b3732cd08ade241c4.jpg",
+    "perex": "konference je Měšec.cz?",
+    "text": "[Měšec.cz](https://www.mesec.cz/) je český informační server zaměřený na osobní finance, který lidem pomáhá s rozhodováním v oblasti peněz. Letos v lednu oslavil 25 let a po celou tu dobu pokrývá všechna témata okolo peněz - od investice, přes úvěry a půjčky až po pojištění či daně. V posledních letech se nevyhýbá ani tématům okolo kryptoměn.\n\nDenně poskytuje aktuální zprávy, analýzy, srovnávací tabulky finančních produktů i online kalkulačky. Redakce se snaží dělat obsah pro běžné lidi, psaný srozumitelně, bez zbytečného odborného žargonu. Navíc je nezávislý – nevlastní ho žádná banka ani velká korporace, takže publikovaným informacím mohou lidé věřit. \n\nČlánky, kalkulačky i srovnávače produktů si podle měření Netmonitoru měsíčně najde téměř 700 tisíc uživatelů.\n\nPodcast Bitcoin a blondýna\nOd roku 2024 je součástí Měšce i bitcoinový podcast [Bitcoin a blondýna](https://www.mesec.cz/bitcoin-a-blondyna/), který vysvětluje Bitcoin a kryptoměny jednoduše pro začátečníky. Moderují ho redaktorka Měšce Gabriela Hájková a Tomáš Krause, provozovatel webu Bitcoinvkapse.cz, kteří v něm rozebírají základy, vyvracejí mýty a zvou si i zajímavé hosty. Těmi už byli například šéf českého Trezoru Matěj Žák nebo zakladatelé bitcoinové půjčkové platformy Firefish.\n\nPodcast má už přes 25 epizod a dostupný je na všech oblíbených podcastových platformách.\n-------------------------------------\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️\n",
+    "slug": "mesec"
+  },
+  "blog/post/triko": {
+    "date_published": "2026-02-17T12:00:00",
+    "title": "Víte, že můžete být šik!",
+    "featured_image": "/media/19aedd995509451245b2.jpg",
+    "perex": "Tričko ku příležitosti 5. ročníku konference - limitovaná edice a časově omezená nabídka",
+    "text": "Pro každého, kdo by chtěl mít vzpomínku na 5. CryptoByte a doplnit svůj šatník o decentní triko s výšivkou \"CB\" jsme připravili limitku trika na objednávku. Triko je z dílny partnera konference [Bitcoin by Satoshi](https://www.bitcoinbysatoshi.cz/), jejich textilní výrobky možná už znáte. Vybranou velikost a počet kusů si můžete objednat v sekci \"[Vstupenky](https://vstupenky.cryptobyte.cz/)\" jako samostatnou položku. \nPozor! Počet triček je omezen na maximálně 55 kusů a lze je objednat jen předem do 12.4.'26. Nevyrábíme na sklad.\nVšechny zakoupené kousky si budete moci vyzvednout v průběhu konference na stánku CryptoByte společně s knihami a dalším materiálem.\n------------------------------------\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "triko"
+  },
+  "blog/post/darwinuv-den": {
+    "date_published": "2026-02-12T12:00:00",
+    "title": "12. únor - Darwinův den",
+    "featured_image": "/media/7a779e44895b0e765351.jpg",
+    "perex": "- Víte, že …\n12. února je tzv. Darwinův den, který připomíná, že evoluce je základní mechanismus změny a pokroku?",
+    "text": "Víte, že …\n12. února je tzv. Darwinův den, který připomíná, že evoluce je základní mechanismus změny a pokroku? Charles Darwin ve své teorii ukázal, jak se složité formy života postupně vyvíjejí a adaptují na měnící se prostředí. To samé lze pozorovat i v oblasti ekonomiky a v historickém vývoji peněz.\nTradiční peníze se během staletí vyvíjely od mušlí a kovových mincí až po papírové bankovky a digitální bankovnictví. Dnes stojí svět před dalším zásadním vývojem, a to je možná rozhodnutí vycouvat ze slepé uličky dnešních fiat měn a vzít na vědomí existenci kryptoměnu zvanou Bitcoin. Namísto centralizovaných autorit, které kontrolují tok peněz, funguje Bitcoin jako otevřený, decentralizovaný systém, kde není třeba mít důvěru ve třetí strany, založený na matematice a síti uživatelů. Tento princip transformuje náš pohled na hodnotu, vlastnictví a svobodu v digitálním věku.\nPokud se chcete o tomto fenoménu dozvědět víc než jen výkřiky mediálních titulků, stojí za to přijít si pro hlubší porozumění na konferenci CryptoByte 2026.  \nCryptoByte není jen další event. Je to největší kryptoměnová konference v České republice, která sdružuje [odborníky, ekonomy, investory](https://cryptobyte.cz/#hoste) i technologické nadšence kolem témat jako Bitcoin, blockchain, legislativa či bezpečnost. Návštěvníci se mohou těšit na 3 přednáškové sály, workshopy, expo halu s partnery i komunitní afterparty – ideální příležitost pro networking a výměnu zkušeností.  \nLetos konference rozšiřuje program i o důležité doprovodné téma umělé inteligence (AI), které stejně jako Bitcoin patří k nejrychleji se rozvíjejícím technologiím současnosti. AI mění způsob, jak pracujeme, učíme se i rozhodujeme – a podobně jako kryptoměny představuje novou etapu technologické a společenské evoluce.  \nCryptoByte tak není jen pro technické nadšence. Program je každoročně připraven tak, aby si našel každý to své. Od úplných nováčků až po zkušené profesionálymůžete posunout své znalosti a pochopení kryptoměn a technologií, které budou utvářet ekonomiku i společnost v nadcházejících letech.  \nEvoluce nekončí – pouze mění své formy. A kdo chce pochopit, jak se svět peněz a technologií transformuje, měl by [být u toho](https://vstupenky.cryptobyte.cz/).\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "darwinuv-den"
+  },
+  "blog/post/boarding-pass": {
+    "date_published": "2026-01-14T10:00:00",
+    "title": "Víte, že se můžete i proletět?",
+    "featured_image": "/media/f1a3d5ae01933defdec7.jpg",
+    "perex": "Vstupenka Boarding Pass - cesta do nebe",
+    "text": "Konference CryptoByte se bude 16.5.2026 konat již po páté, a tak jsme pro účastníky, kteří mají chuť zažít něco nového připravili speciální vstupenku Boarding Pass. S touto palubní vstupenkou se již v pátek odpoledne, den před samotnou konferencí, můžete proletět v helikoptéře. Během letu obkroužíte libereckou dominantu Ještěd a proletíte se také nad Jizerskými horami. Ideální vstupenka pro toho, kdo přijede na konferenci již v pátek a kromě večerního posezení s přáteli z komunity chce zažít něco extra.\nCo všechno vstupenka zahrnuje se můžete podívat [ZDE](https://vstupenky.cryptobyte.cz/).\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "boarding-pass"
+  },
+  "blog/post/dusan-kmetyo-clanek": {
+    "date_published": "2026-01-09T12:00:00",
+    "title": "Víte, že pořadatel konference CryptoByte je také publicistou?",
+    "featured_image": "/media/4786f409ac6724e918e2.jpg",
+    "perex": "Pořadatel konference, Dušan Kmetyo, spolupracuje s nezávislým zpravodajským webem Newstream.cz",
+    "text": "Pořadatel konference CryptoByte je Dušan Kmetyo. Činorodý muž mnoha aktivit. Kromě pořádání konference CryptoByte je i spolupracovníkem České kryptoměnové asociace, aktivním členem bitcoinerské komunity Jednadvacet. Pravidelně také přednáší o Bitcoinu na Technické univerzitě v Liberci a přispívá do médií. Po článcích s bitcoinovou tématikou na Forum 24 začal v těchto dnech spolupracovat s nezávislým zpravodajským webem [Newstream.cz](https://www.newstream.cz/). První z publikovaných článků na téma Bitcoin si můžete přečíst [ZDE](https://www.newstream.cz/nazory/o-bitcoin-se-hraje-na-wall-street).\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "dusan-kmetyo-clanek"
+  },
+  "blog/post/ke-vstupence-kniha": {
+    "date_published": "2025-12-28T12:00:00",
+    "title": "Víte, že ke vstupence si můžete přihodit i knihu?",
+    "featured_image": "/media/9337f79b72ed4450cf0e.jpg",
+    "perex": "**Jedinečná příležitost k nákupu knihy za symbolickou cenu**",
+    "text": "Va spolupráci s Braiins Publishing vám ke vstupenkách na 5. ročník konference CryptoByte přinášíme možnost koupit si i jednu z knih s bitcoinovou tématikou. Po výběru vstupenky se vám v košíku zobrazí možnost vybrat si k vaší objednávce jednu z nabízených knih za symbolickou cenu.\nTěm, kdo se o Bitcoin a jeho přednosti teprve začínají zajímat doporučujeme titul \"Bitcoin: Návrat zdravých peněz\" od ekonoma a bitcoinera Josefa Tětka. Pokročilejší z vás pak mohou sáhnout například po knize \"Vynález jménem Bitcoin\".\nV knihovničce žádného fanouška kryptoměn by neměla chybět \"Velká kniha o Bitcoinu a kryptoměnách\" od Kamila Boušky. \n\n-------------------------------------------------\n\n\n👨‍🏫**[Speakeři /Hosté ](https://cryptobyte.cz/#hoste)**👨‍🏫💬💬💬💬💬\n🎟️**[Vstupenky](https://vstupenky.cryptobyte.cz/)**🎟️",
+    "slug": "ke-vstupence-kniha"
+  }
+}

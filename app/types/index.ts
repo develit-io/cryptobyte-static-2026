@@ -1,0 +1,8 @@
+export type * from './blog'
+export type * from './faq'
+export type * from './partner'
+export type * from './person'
+export type * from './stage'
+export type * from './supporter'
+export type * from './talk'
+export type * from './testimonial'
