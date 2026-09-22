@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import { useStorage } from '@vueuse/core'
 
-const viewMode = useStorage('viewMode', 'table' as 'table' | 'list')
+const viewMode = useStorage('viewMode', 'table' as 'table' | 'list', undefined, { initOnMounted: true })
 
 const options = [
   { label: 'Tabulka', value: 'table', icon: 'pi pi-th-large' },

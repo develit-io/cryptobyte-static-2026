@@ -17,7 +17,7 @@ const {
 } = storeToRefs(programStore)
 
 const { isFavorite, favoritesMode, syncFavoriteState } = useFavorites()
-const viewMode = useStorage('viewMode', 'table' as 'table' | 'list')
+const viewMode = useStorage('viewMode', 'table' as 'table' | 'list', undefined, { initOnMounted: true })
 
 const stagesById = computed(() => {
   return new Map(stages.value.map(stage => [stage.id, stage]))

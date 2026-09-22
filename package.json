@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "nuxt dev",
-    "build": "nuxt generate",
-    "generate": "nuxt generate",
+    "build": "node scripts/generate.mjs",
+    "generate": "node scripts/generate.mjs",
     "preview": "python3 -m http.server 4173 --bind 127.0.0.1 --directory .output/public",
     "postinstall": "nuxt prepare",
     "test:static": "node scripts/verify-static.mjs"
@@ -32,7 +32,8 @@
     "unocss": "66.7.0",
     "vue-tsc": "3.3.2",
     "vue-writer": "2.0.2",
-    "@playwright/test": "1.58.2"
+    "@playwright/test": "1.58.2",
+    "@nuxt/cli": "3.37.0"
   },
   "overrides": {
     "vue": "3.5.27",
