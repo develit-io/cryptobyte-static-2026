@@ -45,15 +45,44 @@ PLAYWRIGHT_CHANNEL=chrome bun run test:static
 
 Test otevře všech 33 stránek s blokovanými externími požadavky, kontroluje načtení obrázků a chyby prohlížeče, místní oblíbené po obnovení stránky, detail přednášky, přechody mezi články a mobilní zobrazení. Dashboard kontroluje i po uplynutí původního 30sekundového intervalu. Screenshoty ukládá do `test-results/`.
 
-## Nasazení později
+## Automatické nasazení na Cloudflare Pages
 
-Nasazení ani DNS teď nejsou nastavené. Pro budoucí statický hosting:
+Konfigurace je připravená v repozitáři. První propojení s Cloudflare ještě není aktivní: místní Wrangler má přístup pouze k účtu Dream Innovations, zatímco archiv 2025 běží v jiném účtu. Doména `2026.cryptobyte.cz` dosud není nastavená.
 
-1. Sestav archiv příkazem `bun run build`.
-2. Nahraj celý obsah `.output/public` jako kořen webu, včetně adresářů `_nuxt`, fontů a obrázků.
-3. Hosting musí obsluhovat adresářové `index.html`, například `/dashboard/index.html` na `/dashboard/`. Pro nenalezené stránky použij `404.html`.
-4. Až bude hosting připravený, připoj `2026.cryptobyte.cz` a nastav DNS a HTTPS podle vybraného poskytovatele.
+Po propojení bude každý push do `main` automaticky sestaven a nasazen přímo přes Cloudflare Pages Git integration. Preview deploymenty jsou v připravené konfiguraci vypnuté. Nenasazuje se Worker, `.output/server`, CMS ani databáze.
 
-Nenasazuje se `.output/server`, Worker ani Node.js proces. Nejsou potřeba žádné proměnné prostředí, CMS tokeny nebo databázové bindings. Konkrétní provider se vybere samostatně.
+### Jednorázové propojení
 
-Statický výstup odpovídá [postupu Nuxt pro statické nasazení](https://nuxt.com/docs/4.x/getting-started/deployment#static-hosting).
+V Cloudflare účtu, kde běží archiv 2025:
+
+1. Povol aplikaci **Cloudflare Workers and Pages** přístup k GitHub repozitáři `develit-io/cryptobyte-static-2026`, pokud ho ještě nemá.
+2. Založ **Pages** projekt přes **Connect to Git**, název `cryptobyte-static-2026`, produkční větev `main`.
+3. Zadej nastavení níže a spusť první build.
+4. Po úspěšném deployi přidej custom domain `2026.cryptobyte.cz` a dokonči nabídnuté nastavení DNS.
+
+| Nastavení | Hodnota |
+| --- | --- |
+| Framework preset | None |
+| Root directory | kořen repozitáře |
+| Build command | `bun install --frozen-lockfile && bun run build` |
+| Build output directory | `.output/public` |
+| `BUN_VERSION` | `1.3.14` |
+| `NODE_VERSION` | `26.0.0` |
+| `SKIP_DEPENDENCY_INSTALL` | `1` |
+
+Tyto build proměnné nejsou tajné údaje. Samotný web žádné proměnné ani tajné údaje nepotřebuje.
+
+`wrangler.jsonc` určuje název projektu a adresář statického výstupu. `deployment/cloudflare-pages.json` obsahuje připravené tělo požadavku pro Cloudflare API **Create project**, včetně GitHub integrace a produkčních buildů. Tento JSON se sám neaplikuje; pro vytvoření projektu je nutný přístup ke správnému Cloudflare účtu a již povolená GitHub integrace.
+
+### Automatická kontrola repozitáře
+
+GitHub Actions workflow `.github/workflows/ci.yml` při pushi do `main` a při pull requestu:
+
+- nainstaluje závislosti z lockfilu a vytvoří statický export;
+- otevře všech 33 stránek v Chromium se zablokovanými externími požadavky;
+- ověří obrázky, dashboard, oblíbené, detail přednášky, blog a mobilní seznam;
+- uloží screenshoty a celý export jako artefakty běhu.
+
+Tento workflow neposílá data na Cloudflare a nepotřebuje deploymentové tokeny. Automatický deploy po jednorázovém propojení provádí samostatně Cloudflare Pages; nečeká na GitHub CI.
+
+Dokumentace: [Cloudflare Git integration](https://developers.cloudflare.com/pages/get-started/git-integration/), [build image](https://developers.cloudflare.com/pages/configuration/build-image/), [Create project API](https://developers.cloudflare.com/api/resources/pages/subresources/projects/methods/create/).
