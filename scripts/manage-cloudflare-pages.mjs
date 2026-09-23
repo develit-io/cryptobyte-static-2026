@@ -8,6 +8,7 @@ const base = `/accounts/${account}/pages/projects`
 const projectPath = `${base}/${config.name}`
 const domain = '2026.cryptobyte.cz'
 const mode = process.argv[2] ?? 'status'
+if (!['status', 'setup', 'domain'].includes(mode)) throw new Error('Unknown operation')
 
 async function api(path, method = 'GET', body, allowMissing = false) {
   const response = await fetch(`https://api.cloudflare.com/client/v4${path}`, {
@@ -28,9 +29,10 @@ async function api(path, method = 'GET', body, allowMissing = false) {
 let project = await api(projectPath, 'GET', undefined, true)
 if (mode === 'setup' && !project) {
   project = await api(base, 'POST', config)
-  console.log('Created Pages project with GitHub integration')
+  console.log('Created Pages project for direct upload from GitHub Actions')
 }
 if (!project) throw new Error('Pages project does not exist')
+if (project.source) throw new Error('Expected a direct-upload project; existing Git integration preserved')
 console.log(JSON.stringify({ name: project.name, subdomain: project.subdomain, domains: project.domains, source: project.source?.type ?? 'direct-upload' }))
 
 if (mode === 'domain') {

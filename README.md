@@ -47,55 +47,33 @@ Test otevře všech 33 stránek s blokovanými externími požadavky, kontroluje
 
 ## Automatické nasazení na Cloudflare Pages
 
-Konfigurace je připravená v repozitáři. První propojení s Cloudflare ještě není aktivní: místní Wrangler má přístup pouze k účtu Dream Innovations, zatímco archiv 2025 běží v jiném účtu. Doména `2026.cryptobyte.cz` dosud není nastavená.
+Produkční adresa: <https://2026.cryptobyte.cz>, dashboard: <https://2026.cryptobyte.cz/dashboard/>.
 
-Po propojení bude každý push do `main` automaticky sestaven a nasazen přímo přes Cloudflare Pages Git integration. Preview deploymenty jsou v připravené konfiguraci vypnuté. Nenasazuje se Worker, `.output/server`, CMS ani databáze.
+Každý push do `main` spustí GitHub Actions workflow `.github/workflows/ci.yml`. Ten nainstaluje závislosti z lockfilu, vytvoří statický export a otestuje všech 33 stránek v Chromium se zablokovanými externími požadavky. Po úspěšných testech nahraje přes Wrangler pouze `.output/public` do Pages projektu `cryptobyte-static-2026`, zajistí custom domain a DNS a zopakuje testy na veřejné adrese. Workflow lze spustit i ručně přes **Actions → Static archive checks and deploy → Run workflow**. Pull requesty spouštějí pouze sestavení a místní testy, bez nasazení a deploymentových credentials.
 
-### Ověření deploymentových přístupů
+Build používá Bun 1.3.14 a Node.js podle `.node-version`. Na Cloudflare běží pouze statické soubory, bez Workeru, Functions, CMS nebo databáze. Build probíhá v GitHub Actions; projekt používá **Direct Upload**, nikoliv Cloudflare Git integration. Přechod existujícího Direct Upload projektu na Git integration není podporovaný; automatické nasazování z GitHubu zajišťuje tento workflow.
 
-Kontrola přes GitHub Actions dne 23. 9. 2026 potvrdila, že repo dědí organizační secrets `CLOUDFLARE_API_TOKEN` a `CLOUDFLARE_ACCOUNT_ID`, ale Account ID neodpovídá účtu archivu 2025. Token vrátil pro Pages v nakonfigurovaném účtu i v účtu archivu 2025 HTTP 403 / chybu 10000; dotaz na zónu `cryptobyte.cz` vrátil prázdný seznam. S těmito přístupy nebyl projekt vytvořen ani nasazen.
+### Přístupy a správa
 
-Produkční workflow původního `develit-io/cryptobyte-website` používá odlišné repository secrets s příponou `_PARTNER`. Pro použití stejného produkčního tokenu přidej v novém repu **Settings → Secrets and variables → Actions → Repository secrets**:
+Cloudflare účet: `Antonin.jilek@webatelier.cz's Account`, ID `d23b5b8537a1f23ed0a7b43faa482006`. V GitHub **Settings → Secrets and variables → Actions → Repository secrets** jsou:
 
-- `CLOUDFLARE_API_TOKEN`: hodnotu produkčního `CLOUDFLARE_API_TOKEN_PARTNER`, rozšířeného o **Account → Cloudflare Pages → Edit** pro cílový účet.
-- `CLOUDFLARE_ACCOUNT_ID`: ID účtu, kde běží archiv 2025: `d23b5b8537a1f23ed0a7b43faa482006`. Pokud kopíruješ `CLOUDFLARE_ACCOUNT_ID_PARTNER`, nejdřív ověř, že odpovídá tomuto účtu.
+- `CLOUDFLARE_ACCOUNT_ID`: ID cílového účtu.
+- `CLOUDFLARE_API_TOKEN`: deploymentový token s **Account → Cloudflare Pages → Edit** pro tento účet a **Zone → DNS → Edit** pro `cryptobyte.cz`.
 
-Repository secrets se stejným názvem přepíšou zděděné organizační hodnoty pouze pro toto repo. GitHub uložené hodnoty secrets neumožňuje přečíst; je potřeba původní hodnota tokenu od jeho správce. Token nepatří do repozitáře ani do logů.
+Token používají pouze deploymentové kroky. Samotný web ani sestavení credentials nepotřebují. Repository secrets přepisují stejně pojmenované organizační hodnoty jen pro tento repozitář.
 
-Poté spusť **Actions → Verify Cloudflare access → Run workflow**. Tato kontrola pouze čte metadata a nevypisuje credentials. Úspěšná kontrola čtení ještě neprokazuje oprávnění k vytvoření projektu; to ověří samotné nasazení. Pro automatické nastavení DNS bude navíc potřeba přístup k zóně `cryptobyte.cz` a **Zone → DNS → Edit**, jinak lze doménu připojit ručně.
+`wrangler.jsonc` určuje název projektu a adresář výstupu; `deployment/cloudflare-pages.json` obsahuje nastavení pro první vytvoření Direct Upload projektu. `scripts/manage-cloudflare-pages.mjs` vytváří pouze chybějící projekt a záznam `2026.cryptobyte.cz`; při kolizi s existujícím DNS záznamem skončí chybou a záznam nepřepíše.
 
-### Jednorázové propojení
+Workflow **Verify Cloudflare access** pouze ověřuje přístup. Workflow **Configure Cloudflare Pages** umožňuje ruční kontrolu stavu (`status`), vytvoření projektu (`setup`) nebo nastavení custom domain (`domain`). Běžné pushování žádný ruční krok nepotřebuje.
 
-V Cloudflare účtu, kde běží archiv 2025:
+### Ověření veřejného webu
 
-1. Povol aplikaci **Cloudflare Workers and Pages** přístup k GitHub repozitáři `develit-io/cryptobyte-static-2026`, pokud ho ještě nemá.
-2. Založ **Pages** projekt přes **Connect to Git**, název `cryptobyte-static-2026`, produkční větev `main`.
-3. Zadej nastavení níže a spusť první build.
-4. Po úspěšném deployi přidej custom domain `2026.cryptobyte.cz` a dokonči nabídnuté nastavení DNS.
+Po lokálním sestavení lze stejný browser test spustit proti nasazenému webu:
 
-| Nastavení | Hodnota |
-| --- | --- |
-| Framework preset | None |
-| Root directory | kořen repozitáře |
-| Build command | `bun install --frozen-lockfile && bun run build` |
-| Build output directory | `.output/public` |
-| `BUN_VERSION` | `1.3.14` |
-| `NODE_VERSION` | `26.0.0` |
-| `SKIP_DEPENDENCY_INSTALL` | `1` |
+```sh
+STATIC_TEST_ORIGIN=https://2026.cryptobyte.cz bun run test:static
+```
 
-Tyto build proměnné nejsou tajné údaje. Samotný web žádné proměnné ani tajné údaje nepotřebuje.
+Test ověří stránky, obrázky, dashboard, oblíbené, modal, blog a mobilní zobrazení. Každý požadavek na jinou doménu, `/api/` nebo zápis je blokován a způsobí selhání testu. CI ukládá statický export a screenshoty jako artefakty běhu.
 
-`wrangler.jsonc` určuje název projektu a adresář statického výstupu. `deployment/cloudflare-pages.json` obsahuje připravené tělo požadavku pro Cloudflare API **Create project**, včetně GitHub integrace a produkčních buildů. Tento JSON se sám neaplikuje; pro vytvoření projektu je nutný přístup ke správnému Cloudflare účtu a již povolená GitHub integrace.
-
-### Automatická kontrola repozitáře
-
-GitHub Actions workflow `.github/workflows/ci.yml` při pushi do `main` a při pull requestu:
-
-- nainstaluje závislosti z lockfilu a vytvoří statický export;
-- otevře všech 33 stránek v Chromium se zablokovanými externími požadavky;
-- ověří obrázky, dashboard, oblíbené, detail přednášky, blog a mobilní seznam;
-- uloží screenshoty a celý export jako artefakty běhu.
-
-Tento workflow neposílá data na Cloudflare a nepotřebuje deploymentové tokeny. Automatický deploy po jednorázovém propojení provádí samostatně Cloudflare Pages; nečeká na GitHub CI.
-
-Dokumentace: [Cloudflare Git integration](https://developers.cloudflare.com/pages/get-started/git-integration/), [build image](https://developers.cloudflare.com/pages/configuration/build-image/), [Create project API](https://developers.cloudflare.com/api/resources/pages/subresources/projects/methods/create/).
+Dokumentace: [Pages Direct Upload s CI](https://developers.cloudflare.com/pages/how-to/use-direct-upload-with-continuous-integration/), [vlastní domény](https://developers.cloudflare.com/pages/configuration/custom-domains/).

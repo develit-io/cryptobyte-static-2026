@@ -1,4 +1,4 @@
-name: Static archive checks
+name: Static archive checks and deploy
 
 on:
   push:
@@ -12,7 +12,7 @@ permissions:
 
 concurrency:
   group: static-archive-${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 jobs:
   verify:
@@ -73,3 +73,35 @@ jobs:
           include-hidden-files: true
           if-no-files-found: error
           retention-days: 7
+
+      - name: Ensure Cloudflare Pages project exists
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: node scripts/manage-cloudflare-pages.mjs setup
+
+      - name: Deploy verified static files to Cloudflare Pages
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          WRANGLER_SEND_METRICS: 'false'
+        run: bunx --no-install wrangler pages deploy .output/public --project-name cryptobyte-static-2026 --branch main
+
+      - name: Ensure archive custom domain and DNS
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: node scripts/manage-cloudflare-pages.mjs domain
+
+      - name: Wait for custom domain HTTPS
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        run: curl --fail --silent --show-error --location --retry 20 --retry-all-errors --retry-delay 15 --max-time 20 --output /dev/null https://2026.cryptobyte.cz/
+
+      - name: Verify deployed archive in browser
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          STATIC_TEST_ORIGIN: https://2026.cryptobyte.cz
+        run: bun run test:static

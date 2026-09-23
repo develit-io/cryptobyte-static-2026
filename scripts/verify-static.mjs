@@ -2,7 +2,7 @@ import assert from 'node:assert/strict'
 import { readFile, mkdir, readdir } from 'node:fs/promises'
 import { chromium, expect } from '@playwright/test'
 
-const origin = 'http://127.0.0.1:4173'
+const origin = new URL(process.env.STATIC_TEST_ORIGIN ?? 'http://127.0.0.1:4173').origin
 const snapshot = JSON.parse(await readFile(new URL('../data/snapshot.json', import.meta.url)))
 const posts = snapshot['blog/posts'].data
 const routes = ['/', '/program/', '/print/', '/dashboard/', '/blog/', '/media/', '/gdpr/', '/vop/', '/index-soon/', '/mapa/', ...posts.map(post => `/blog/${post.slug}/`)]
@@ -11,7 +11,7 @@ const failedResponses = []
 const errors = []
 await mkdir('test-results', { recursive: true })
 
-// Run against the exported files served by Python, with every external request blocked.
+// Test a local export or the deployed archive, blocking every other origin.
 const browser = await chromium.launch(process.env.PLAYWRIGHT_CHANNEL ? { channel: process.env.PLAYWRIGHT_CHANNEL } : {})
 const context = await browser.newContext({ viewport: { width: 1440, height: 1000 }, serviceWorkers: 'block' })
 await context.route('**/*', async route => {
