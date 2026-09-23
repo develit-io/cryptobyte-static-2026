@@ -51,6 +51,8 @@ Produkční adresa: <https://2026.cryptobyte.cz>, dashboard: <https://2026.crypt
 
 Každý push do `main` spustí GitHub Actions workflow `.github/workflows/ci.yml`. Ten nainstaluje závislosti z lockfilu, vytvoří statický export a otestuje všech 33 stránek v Chromium se zablokovanými externími požadavky. Po úspěšných testech nahraje přes Wrangler pouze `.output/public` do Pages projektu `cryptobyte-static-2026`, zajistí custom domain a DNS a zopakuje testy na veřejné adrese. Workflow lze spustit i ručně přes **Actions → Static archive checks and deploy → Run workflow**. Pull requesty spouštějí pouze sestavení a místní testy, bez nasazení a deploymentových credentials.
 
+`public/_headers` nastavuje `Cache-Control: public, max-age=0, must-revalidate, no-transform`, aby Cloudflare do archivu nevkládal analytický skript ani neměnil HTML. Toto nastavení platí jen pro archiv 2026.
+
 Build používá Bun 1.3.14 a Node.js podle `.node-version`. Na Cloudflare běží pouze statické soubory, bez Workeru, Functions, CMS nebo databáze. Build probíhá v GitHub Actions; projekt používá **Direct Upload**, nikoliv Cloudflare Git integration. Přechod existujícího Direct Upload projektu na Git integration není podporovaný; automatické nasazování z GitHubu zajišťuje tento workflow.
 
 ### Přístupy a správa

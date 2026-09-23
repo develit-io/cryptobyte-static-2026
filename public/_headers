@@ -1,0 +1,3 @@
+# Preserve the self-contained archive: Cloudflare must not inject analytics or rewrite HTML.
+/*
+  Cache-Control: public, max-age=0, must-revalidate, no-transform
