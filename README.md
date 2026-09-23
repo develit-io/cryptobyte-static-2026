@@ -51,6 +51,19 @@ Konfigurace je připravená v repozitáři. První propojení s Cloudflare ješt
 
 Po propojení bude každý push do `main` automaticky sestaven a nasazen přímo přes Cloudflare Pages Git integration. Preview deploymenty jsou v připravené konfiguraci vypnuté. Nenasazuje se Worker, `.output/server`, CMS ani databáze.
 
+### Ověření deploymentových přístupů
+
+Kontrola přes GitHub Actions dne 23. 9. 2026 potvrdila, že repo dědí organizační secrets `CLOUDFLARE_API_TOKEN` a `CLOUDFLARE_ACCOUNT_ID`, ale Account ID neodpovídá účtu archivu 2025. Token vrátil pro Pages v nakonfigurovaném účtu i v účtu archivu 2025 HTTP 403 / chybu 10000; dotaz na zónu `cryptobyte.cz` vrátil prázdný seznam. S těmito přístupy nebyl projekt vytvořen ani nasazen.
+
+Produkční workflow původního `develit-io/cryptobyte-website` používá odlišné repository secrets s příponou `_PARTNER`. Pro použití stejného produkčního tokenu přidej v novém repu **Settings → Secrets and variables → Actions → Repository secrets**:
+
+- `CLOUDFLARE_API_TOKEN`: hodnotu produkčního `CLOUDFLARE_API_TOKEN_PARTNER`, rozšířeného o **Account → Cloudflare Pages → Edit** pro cílový účet.
+- `CLOUDFLARE_ACCOUNT_ID`: ID účtu, kde běží archiv 2025: `d23b5b8537a1f23ed0a7b43faa482006`. Pokud kopíruješ `CLOUDFLARE_ACCOUNT_ID_PARTNER`, nejdřív ověř, že odpovídá tomuto účtu.
+
+Repository secrets se stejným názvem přepíšou zděděné organizační hodnoty pouze pro toto repo. GitHub uložené hodnoty secrets neumožňuje přečíst; je potřeba původní hodnota tokenu od jeho správce. Token nepatří do repozitáře ani do logů.
+
+Poté spusť **Actions → Verify Cloudflare access → Run workflow**. Tato kontrola pouze čte metadata a nevypisuje credentials. Úspěšná kontrola čtení ještě neprokazuje oprávnění k vytvoření projektu; to ověří samotné nasazení. Pro automatické nastavení DNS bude navíc potřeba přístup k zóně `cryptobyte.cz` a **Zone → DNS → Edit**, jinak lze doménu připojit ručně.
+
 ### Jednorázové propojení
 
 V Cloudflare účtu, kde běží archiv 2025:
