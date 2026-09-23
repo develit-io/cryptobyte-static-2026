@@ -1,0 +1,32 @@
+name: Configure Cloudflare Pages
+
+on:
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: Pages operation
+        type: choice
+        options: [status, setup, domain]
+        default: status
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cloudflare-pages-configuration
+  cancel-in-progress: false
+
+jobs:
+  configure:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Configure archive Pages project
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          OPERATION: ${{ inputs.operation }}
+        run: node scripts/manage-cloudflare-pages.mjs "$OPERATION"
