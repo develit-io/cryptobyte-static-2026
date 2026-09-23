@@ -53,12 +53,6 @@ watchEffect(() => {
               {{ i.name }}
             </NuxtLink>
           </div>
-          <NuxtLink to="https://vstupenky.cryptobyte.cz/" flex items-center font-notch>
-            <Button label="Vstupenky" h-fit>
-              <i class="pi pi-ticket" />
-              Vstupenky
-            </Button>
-          </NuxtLink>
         </nav>
       </div>
     </div>
@@ -90,14 +84,6 @@ watchEffect(() => {
               >
                 {{ i.name }}
               </NuxtLink>
-              <div p-24px mx-auto font-notch>
-                <NuxtLink to="https://vstupenky.cryptobyte.cz/" flex items-center>
-                  <Button label="Vstupenky" size="large">
-                    <i class="pi pi-ticket" />
-                    Vstupenky
-                  </Button>
-                </NuxtLink>
-              </div>
             </nav>
           </div>
         </div>
