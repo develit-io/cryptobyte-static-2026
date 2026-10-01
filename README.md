@@ -23,6 +23,7 @@ Snapshot byl pořízen 22. 9. 2026. Přesný čas a commit původního webu obsa
 - 33 stránek včetně 23 kompletních článků, programu, tisku a dashboardu.
 - 41 položek programu, 7 stagí, 40 hostů, 26 partnerů, 20 podporovatelů, 12 FAQ a 6 referencí.
 - 90 stažených obrázků a 14 souborů fontů; fotografie řečníků zachovávají původní ořez.
+- Blogové obrázky mají nejvýše 1 200 px; seznam článků používá 23 samostatných náhledů o velikosti 300 px pro zobrazení na 150 px. Rastrová loga se vejdou do 600 × 240 px, poměr stran a průhlednost zůstávají zachované. Původní adresy obrázků nadále fungují; originály před optimalizací jsou v historii Gitu.
 - Dashboard obsahuje archivovaných 2 305 srdíček od 277 prohlížečů včetně počtů a časů u jednotlivých přednášek. Neobnovuje se a místní změny oblíbených jeho statistiky nemění.
 - Oblíbené přednášky fungují přes `localStorage` pouze v konkrétním prohlížeči.
 

@@ -23,7 +23,7 @@ useHead({ title: 'Blog' })
       <div v-if="posts" px-20px font-300 grid grid-cols-1 md:grid-cols-2 gap-20px>
         <div v-for="post in posts.data" :key="post.slug" flex gap-12px bg-white rounded-lg p-24px border-1 border-gray-200 drop-shadow-md>
           <div w-150px flex-none>
-            <NuxtImg :src="post.featured_image" :alt="post.title" />
+            <NuxtImg :src="post.featured_image.replace('/media/', '/media/thumbnails/')" :alt="post.title" width="150" height="150" />
           </div>
           <div>
             <h3 text-lg font-400 text-black>
